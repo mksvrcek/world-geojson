@@ -13,6 +13,7 @@
                 "version": 1.0
             },
             "geometry": {
+                "type": "Polygon",
                 "coordinates": [
                     [
                         [
@@ -2048,8 +2049,7 @@
                             41.297412572239566
                         ]
                     ]
-                ],
-                "type": "Polygon"
+                ]
             }
         }
     ]
