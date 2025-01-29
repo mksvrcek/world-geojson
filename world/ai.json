@@ -3,7 +3,15 @@
     "features": [
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "sov": "UK",
+                "type": "Dep",
+                "name": "Anguilla",
+                "continent": "North America",
+                "label-x": -63.026361,
+                "label-y": 18.242979,
+                "version": 1.0
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [

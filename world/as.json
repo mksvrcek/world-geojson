@@ -3,7 +3,15 @@
     "features": [
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "sov": "US",
+                "type": "Dep",
+                "name": "American Samoa",
+                "continent": "Oceania",
+                "label-x": -14.3032,
+                "label-y": -170.7091,
+                "version": 1.0
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [

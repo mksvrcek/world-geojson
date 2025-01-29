@@ -3,7 +3,15 @@
     "features": [
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "sov": "NL",
+                "type": "Dep",
+                "name": "Aruba",
+                "continent": "North America",
+                "label-x": -69.972795,
+                "label-y": 12.5174,
+                "version": 1.0
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
