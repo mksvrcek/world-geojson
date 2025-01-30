@@ -6,8 +6,8 @@
         "name": "Antigua and Barbuda",
         "capital": "Saint John's",
         "continent": "North America",
-        "label-x": -61.790612,
-        "label-y": 17.352249,
+        "label_x": -61.790612,
+        "label_y": 17.352249,
         "version": 1.0
     },
     "geometry": {

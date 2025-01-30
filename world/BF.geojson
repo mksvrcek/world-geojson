@@ -6,8 +6,8 @@
         "name": "Burkina Faso",
         "capital": "Ouagadougou",
         "continent": "Africa",
-        "label-x": -1.36388,
-        "label-y": 12.673048,
+        "label_x": -1.36388,
+        "label_y": 12.673048,
         "version": 1.0
     },
     "geometry": {

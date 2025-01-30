@@ -6,8 +6,8 @@
         "name": "Argentina",
         "capital": "Buenos Aires",
         "continent": "South America",
-        "label-x": -64.173331,
-        "label-y": -33.501159,
+        "label_x": -64.173331,
+        "label_y": -33.501159,
         "version": 1.0
     },
     "geometry": {

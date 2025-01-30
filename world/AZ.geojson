@@ -6,8 +6,8 @@
         "name": "Azerbaijan",
         "capital": "Baku",
         "continent": "Asia",
-        "label-x": 47.210994,
-        "label-y": 40.402387,
+        "label_x": 47.210994,
+        "label_y": 40.402387,
         "version": 1.0
     },
     "geometry": {

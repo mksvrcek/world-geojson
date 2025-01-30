@@ -6,8 +6,8 @@
         "name": "Brazil",
         "capital": "Brasília",
         "continent": "South America",
-        "label-x": -49.55945,
-        "label-y": -12.098687,
+        "label_x": -49.55945,
+        "label_y": -12.098687,
         "version": 1.0
     },
     "geometry": {

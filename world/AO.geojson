@@ -6,8 +6,8 @@
         "name": "Angola",
         "capital": "Luanda",
         "continent": "Africa",
-        "label-x": 17.984249,
-        "label-y": -12.182762,
+        "label_x": 17.984249,
+        "label_y": -12.182762,
         "version": 1.0
     },
     "geometry": {

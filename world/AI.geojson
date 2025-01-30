@@ -6,8 +6,8 @@
         "name": "Anguilla",
         "capital": "The Valley",
         "continent": "North America",
-        "label-x": -63.026361,
-        "label-y": 18.242979,
+        "label_x": -63.026361,
+        "label_y": 18.242979,
         "version": 1.0
     },
     "geometry": {

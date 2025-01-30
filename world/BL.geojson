@@ -6,8 +6,8 @@
         "name": "Saint Barthélemy",
         "capital": "Gustavia",
         "continent": "North America",
-        "label-x": -62.833193,
-        "label-y": 17.901987,
+        "label_x": -62.833193,
+        "label_y": 17.901987,
         "version": 1.0
     },
     "geometry": {

@@ -6,8 +6,8 @@
         "name": "American Samoa",
         "capital": "Pago Pago",
         "continent": "Oceania",
-        "label-x": -14.3032,
-        "label-y": -170.7091,
+        "label_x": -14.3032,
+        "label_y": -170.7091,
         "version": 1.0
     },
     "geometry": {

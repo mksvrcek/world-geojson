@@ -6,8 +6,8 @@
         "name": "Botswana",
         "capital": "Gaborone",
         "continent": "Africa",
-        "label-x": 24.179216,
-        "label-y": -22.102634,
+        "label_x": 24.179216,
+        "label_y": -22.102634,
         "version": 1.0
     },
     "geometry": {

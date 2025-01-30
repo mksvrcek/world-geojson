@@ -6,8 +6,8 @@
         "name": "Armenia",
         "capital": "Yerevan",
         "continent": "Asia",
-        "label-x": 44.800564,
-        "label-y": 40.459077,
+        "label_x": 44.800564,
+        "label_y": 40.459077,
         "version": 1.0
     },
     "geometry": {

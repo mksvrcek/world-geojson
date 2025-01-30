@@ -6,8 +6,8 @@
         "name": "Aruba",
         "capital": "Oranjestad",
         "continent": "North America",
-        "label-x": -69.972795,
-        "label-y": 12.5174,
+        "label_x": -69.972795,
+        "label_y": 12.5174,
         "version": 1.0
     },
     "geometry": {

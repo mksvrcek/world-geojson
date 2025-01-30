@@ -6,8 +6,8 @@
         "name": "Belize",
         "capital": "Belmopan",
         "continent": "North America",
-        "label-x": -88.71296,
-        "label-y": 17.202068,
+        "label_x": -88.71296,
+        "label_y": 17.202068,
         "version": 1.0
     },
     "geometry": {

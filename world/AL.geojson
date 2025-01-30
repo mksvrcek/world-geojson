@@ -6,8 +6,8 @@
         "name": "Albania",
         "capital": "Tiranë",
         "continent": "Europe",
-        "label-x": 20.11384,
-        "label-y": 40.654855,
+        "label_x": 20.11384,
+        "label_y": 40.654855,
         "version": 1.0
     },
     "geometry": {

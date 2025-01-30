@@ -6,8 +6,8 @@
         "name": "Bolivia",
         "capital": "Sucre",
         "continent": "South America",
-        "label-x": -64.593433,
-        "label-y": -16.666015,
+        "label_x": -64.593433,
+        "label_y": -16.666015,
         "version": 1.0
     },
     "geometry": {

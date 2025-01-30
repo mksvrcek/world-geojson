@@ -6,8 +6,8 @@
         "name": "Bhutan",
         "capital": "Thimphu",
         "continent": "Asia",
-        "label-x": 90.040294,
-        "label-y": 27.536685,
+        "label_x": 90.040294,
+        "label_y": 27.536685,
         "version": 1.0
     },
     "geometry": {

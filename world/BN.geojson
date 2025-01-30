@@ -6,8 +6,8 @@
         "name": "Brunei Darussalam",
         "capital": "Bandar Seri Begawan",
         "continent": "Asia",
-        "label-x": 114.551943,
-        "label-y": 4.448298,
+        "label_x": 114.551943,
+        "label_y": 4.448298,
         "version": 1.0
     },
     "geometry": {

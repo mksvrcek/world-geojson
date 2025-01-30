@@ -6,8 +6,8 @@
         "name": "Benin",
         "capital": "Porto-Novo",
         "continent": "Africa",
-        "label-x": 2.352018,
-        "label-y": 10.324775,
+        "label_x": 2.352018,
+        "label_y": 10.324775,
         "version": 1.0
     },
     "geometry": {

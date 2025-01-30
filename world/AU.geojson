@@ -6,8 +6,8 @@
         "name": "Australia",
         "capital": "Canberra",
         "continent": "Oceania",
-        "label-x": -25.7560,
-        "label-y": 134.4539,
+        "label_x": -25.7560,
+        "label_y": 134.4539,
         "version": 1.0
     },
     "geometry": {

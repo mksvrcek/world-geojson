@@ -6,8 +6,8 @@
         "name": "Bulgaria",
         "capital": "Sofia",
         "continent": "Europe",
-        "label-x": 25.15709,
-        "label-y": 42.508785,
+        "label_x": 25.15709,
+        "label_y": 42.508785,
         "version": 1.0
     },
     "geometry": {

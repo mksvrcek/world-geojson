@@ -6,8 +6,8 @@
         "name": "Bermuda",
         "capital": "Hamilton",
         "continent": "North America",
-        "label-x": -64.763573,
-        "label-y": 32.296592,
+        "label_x": -64.763573,
+        "label_y": 32.296592,
         "version": 1.0
     },
     "geometry": {

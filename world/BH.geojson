@@ -6,8 +6,8 @@
         "name": "Bahrain",
         "capital": "Manama",
         "continent": "Asia",
-        "label-x": 50.554816,
-        "label-y": 26.055972,
+        "label_x": 50.554816,
+        "label_y": 26.055972,
         "version": 1.0
     },
     "geometry": {
