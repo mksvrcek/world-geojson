@@ -1,7 +1,5 @@
 {
     "type": "Feature",
-    "featureId": "CH",
-    "id": "CH",
     "properties": {
         "sov": "CH",
         "type": "UN",
@@ -12,12 +10,6 @@
         "label_y": 46.719114,
         "version": 1.0
     },
-    "bbox": [
-        5.964375,
-        45.819354,
-        10.559128,
-        47.772094
-    ],
     "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
