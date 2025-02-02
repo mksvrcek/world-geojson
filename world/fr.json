@@ -3,7 +3,16 @@
     "features": [
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "sov": "FR",
+                "type": "UN",
+                "name": "France",
+                "capital": "Paris",
+                "continent": "Europe",
+                "label_x": 2.552275,
+                "label_y": 46.696113,
+                "version": 1.0
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
