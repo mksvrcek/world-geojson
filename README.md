@@ -9,6 +9,8 @@ Project Progress & Planned Updates:
 - Swift Package for apple development
 - JS Package
 
+
+
 Properties included with countries & territories:
 - "sov" (required): UN designated sovreignty in ISOA2 format. In case of country = country itself, in case of territory = parent country unless independent.
 - "type" (required): UN / Dep - Describes wheter the entry is a country or a dependency.
