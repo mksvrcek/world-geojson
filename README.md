@@ -1,4 +1,4 @@
-Work in Progress - Data based on [https://github.com/janic0/world-geojson](janic0/world-geojson)
+Work in Progress - Data based on [janic0/world-geojson](https://github.com/janic0/world-geojson)
 
 # World boundaries in GeoJSON format
 Countries based on UN data, including all territories with assigned ISOA2 codes.
