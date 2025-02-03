@@ -1,13 +1,13 @@
-Work in Progress - Data based on (https://github.com/janic0/world-geojson)[janic0/world-geojson]
+Work in Progress - Data based on [https://github.com/janic0/world-geojson](janic0/world-geojson)
 
 # World boundaries in GeoJSON format
 Countries based on UN data, including all territories with assigned ISOA2 codes.
 
 Project Progress & Planned Updates:
-[] - All countries (inc. Properties)
-[] - All territories (inc. Properties)
-[] - Swift Package for apple development
-[] - JS Package
+- All countries (inc. Properties)
+- All territories (inc. Properties)
+- Swift Package for apple development
+- JS Package
 
 Properties included with countries & territories:
 - "sov" (required): UN designated sovreignty in ISOA2 format. In case of country = country itself, in case of territory = parent country unless independent.
