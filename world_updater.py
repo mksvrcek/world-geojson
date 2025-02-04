@@ -17,9 +17,9 @@ def update_geojson(country_code, properties):
     if geojson_file_path:
         with open(geojson_file_path, 'r') as file:
             geojson = json.load(file)
-        for feature in geojson['features']:
-            for key, value in properties.items():
-                feature['properties'][key] = value
+        feature = geojson  # Assuming only one feature per file
+        for key, value in properties.items():
+            feature['properties'][key] = value
         with open(geojson_file_path, 'w') as file:
             json.dump(geojson, file, indent=4)
     else:
