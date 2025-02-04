@@ -12,7 +12,16 @@ def process_csv(csv_file_path):
             properties = {}
             for value in row[1:]:
                 key, val = value.split(':', 1)
-                properties[key.strip()] = val.strip()
+                key = key.strip()
+                val = val.strip()
+                # Try to convert the value to a number (int or float)
+                if val.isdigit():
+                    properties[key] = int(val)
+                else:
+                    try:
+                        properties[key] = float(val)
+                    except ValueError:
+                        properties[key] = val
             update_geojson(country_code, properties)
 
 def update_geojson(country_code, properties):

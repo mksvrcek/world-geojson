@@ -35,7 +35,7 @@ jobs:
         branch_name=update-geojson-$(date +%s)
         git checkout -b $branch_name
         git add .
-        git commit -m "Update GeoJSON files based on CSV input"
+        git commit -m "Update GeoJSON files based on CSV input $(date +%s)"
         git push origin $branch_name
 
     - name: Create Pull Request
