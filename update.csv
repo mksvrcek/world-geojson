@@ -25,7 +25,7 @@ BA,label_x:18.1171504,label_y:44.1221298
 HU,label_x:19.3758674,label_y:47.0450584
 SK,label_x:19.6729402,label_y:48.7461189
 UA,label_x:31.7221141,label_y:48.9073723
-MD,label_x:28.366633,label_y:47.5050031
+MD,label_x:28.366633,label_y:47.5050031,name:Moldova
 RO,label_x:26.1115229,label_y:44.4454409
 RS,label_x:20.9064011,label_y:44.0156648
 BG,label_x:25.4127181,label_y:42.6685653
@@ -69,7 +69,7 @@ MM,label_x:96.2536777,label_y:21.1245849
 LA,label_x:102.6321497,label_y:19.5415337
 TH,label_x:101.5200525,label_y:15.6603923
 KH,label_x:104.9103991,label_y:12.6940934
-VN,label_x:108.3680998,label_y:13.3186546
+VN,label_x:108.3680998,label_y:13.3186546,name:Viet Nam
 MY,label_x:101.6275459,label_y:3.1010333
 ID,label_x:119.854142,label_y:-3.1049764
 PH,label_x:121.0242965,label_y:14.4359473
@@ -99,7 +99,7 @@ RW,label_x:30.0109183,label_y:-2.0027242
 CD,label_x:23.2133824,label_y:-1.4716838
 TZ,label_x:34.8945385,label_y:-6.4530964
 GA,label_x:11.7214938,label_y:-1.3438772
-CG,label_x:15.9357758,label_y:-0.22949
+CG,label_x:15.9357758,label_y:-0.22949,name:Congo
 CM,label_x:10.9085442,label_y:5.7321212
 CF,label_x:18.5596331,label_y:4.3823277
 UG,label_x:32.5206202,label_y:1.1054019
@@ -161,7 +161,7 @@ AI,label_x:-63.0643946,label_y:18.2306172
 BL,label_x:-62.8144003,label_y:17.9124262
 BL,label_x:-62.8144003,label_y:17.9124262
 VG,label_x:-64.3193072,label_y:18.719104
-DO,label_x:-70.086478,label_y:18.892313
+DO,label_x:-70.086478,label_y:18.892313,name:Dominican Republic
 HT,label_x:-71.997441,label_y:18.9640264
 TC,label_x:-71.71875,label_y:21.8003081
 JM,label_x:-77.1609054,label_y:18.1153676
