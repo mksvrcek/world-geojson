@@ -26,7 +26,7 @@ def update_geojson(country_code, properties):
         print(f"GeoJSON file for country code {country_code} not found.")
 
 def find_geojson_file(country_code):
-    directories = ['world/Countries', 'world/Territories']
+    directories = ['world/Countries', 'world/Teritorries']
     for directory in directories:
         for filename in os.listdir(directory):
             if filename.startswith(country_code):
