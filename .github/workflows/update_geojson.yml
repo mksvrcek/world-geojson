@@ -23,7 +23,7 @@ jobs:
         python -m pip install --upgrade pip
 
     - name: Run the script
-      run: python update_geojson.py update.csv
+      run: python world_updater.py update.csv
 
     - name: Commit and push changes
       run: |
