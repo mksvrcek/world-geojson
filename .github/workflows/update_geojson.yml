@@ -1,0 +1,42 @@
+name: Update GeoJSON
+
+on:
+  push:
+    paths:
+      - 'update.csv'
+
+jobs:
+  update-geojson:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+
+    - name: Run the script
+      run: python update_geojson.py update.csv
+
+    - name: Commit and push changes
+      run: |
+        branch_name=update-geojson-$(date +%s)
+        git checkout -b $branch_name
+        git add .
+        git commit -m "Update GeoJSON files based on CSV input"
+        git push origin $branch_name
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        branch: $branch_name
+        title: "Update GeoJSON files based on CSV input"
+        body: "This PR updates GeoJSON files based on the uploaded CSV file."
