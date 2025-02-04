@@ -3,12 +3,12 @@
     "properties": {
         "sov": "KR",
         "type": "UN",
-        "name": "Korea (Republic of)",
+        "name": "South Korea",
         "capital": "Seoul",
         "continent": "Asia",
-        "label_x": 128.129504,
-        "label_y": 36.384924,
-        "version": 1.0        
+        "label_x": 127.8558413,
+        "label_y": 36.4583508,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

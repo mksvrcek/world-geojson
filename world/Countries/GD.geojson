@@ -6,9 +6,9 @@
         "name": "Grenada",
         "capital": "Saint George's",
         "continent": "North America",
-        "label_x": -61.680461,
-        "label_y": 12.113156,
-        "version": 1.0        
+        "label_x": -61.6549582,
+        "label_y": 12.155863,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

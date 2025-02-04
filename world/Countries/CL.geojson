@@ -6,8 +6,8 @@
         "name": "Chile",
         "capital": "Santiago",
         "continent": "South America",
-        "label_x": -72.318871,
-        "label_y": -38.151771,
+        "label_x": -71.0957324,
+        "label_y": -34.572976,
         "version": 1.0
     },
     "geometry": {

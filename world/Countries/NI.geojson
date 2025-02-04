@@ -6,9 +6,9 @@
         "name": "Nicaragua",
         "capital": "Managua",
         "continent": "North America",
-        "label_x": -85.069347,
-        "label_y": 12.670697,
-        "version": 1.0        
+        "label_x": -84.9087258,
+        "label_y": 12.1394317,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

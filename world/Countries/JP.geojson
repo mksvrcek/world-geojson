@@ -6,9 +6,9 @@
         "name": "Japan",
         "capital": "Tokyo",
         "continent": "Asia",
-        "label_x": 138.44217,
-        "label_y": 36.142538,
-        "version": 1.0        
+        "label_x": 136.690816,
+        "label_y": 35.672792,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

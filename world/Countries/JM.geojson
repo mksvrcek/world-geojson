@@ -6,9 +6,9 @@
         "name": "Jamaica",
         "capital": "Kingstone",
         "continent": "North America",
-        "label_x": -77.318767,
-        "label_y": 18.137124,
-        "version": 1.0        
+        "label_x": -77.1609054,
+        "label_y": 18.1153676,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

@@ -6,9 +6,9 @@
         "name": "Morocco",
         "capital": "Rabat",
         "continent": "Africa",
-        "label_x": -7.187296,
-        "label_y": 31.650723,
-        "version": 1.0        
+        "label_x": -6.4839757,
+        "label_y": 31.7134782,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

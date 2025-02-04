@@ -6,9 +6,9 @@
         "name": "Sri Lanka",
         "capital": "Colombo",
         "continent": "Asia",
-        "label_x": 80.704823,
-        "label_y": 7.581097,
-        "version": 1.0        
+        "label_x": 80.779494,
+        "label_y": 7.5172418,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

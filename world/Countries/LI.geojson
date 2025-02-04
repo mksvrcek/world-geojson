@@ -6,9 +6,9 @@
         "name": "Liechtenstein",
         "capital": "Vaduz",
         "continent": "Europe",
-        "label_x": 9.559439,
-        "label_y": 47.111405,
-        "version": 1.0        
+        "label_x": 9.5409521,
+        "label_y": 47.1602822,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

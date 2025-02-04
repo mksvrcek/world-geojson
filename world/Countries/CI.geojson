@@ -3,11 +3,11 @@
     "properties": {
         "sov": "CI",
         "type": "UN",
-        "name": "Côte D'Ivoire",
+        "name": "C\u00f4te D'Ivoire",
         "capital": "Yamoussoukro",
         "continent": "Africa",
-        "label_x": -5.568618,
-        "label_y": 7.49139,
+        "label_x": -5.5665051,
+        "label_y": 7.5473633,
         "version": 1.0
     },
     "geometry": {

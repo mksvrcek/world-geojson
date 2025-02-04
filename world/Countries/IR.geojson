@@ -6,9 +6,9 @@
         "name": "Iran",
         "capital": "Tehran",
         "continent": "Asia",
-        "label_x": 54.931495,
-        "label_y": 32.166225,
-        "version": 1.0        
+        "label_x": 53.4877657,
+        "label_y": 32.8152734,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

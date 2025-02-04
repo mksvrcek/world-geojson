@@ -6,9 +6,9 @@
         "name": "Haiti",
         "capital": "Port-au-Prince",
         "continent": "North America",
-        "label_x": -72.224051,
-        "label_y": 19.263784,
-        "version": 1.0        
+        "label_x": -71.997441,
+        "label_y": 18.9640264,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

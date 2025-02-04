@@ -6,9 +6,9 @@
         "name": "Guinea Bissau",
         "capital": "Bissau",
         "continent": "Africa",
-        "label_x": -14.52413,
-        "label_y": 12.163712,
-        "version": 1.0        
+        "label_x": -15.6029958,
+        "label_y": 11.8529921,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

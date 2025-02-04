@@ -3,11 +3,11 @@
     "properties": {
         "sov": "CG",
         "type": "UN",
-        "name": "Republic of the Congo",
+        "name": "Congo",
         "capital": "Brazzaville",
         "continent": "Africa",
-        "label_x": 15.9005,
-        "label_y": 0.142331,
+        "label_x": 15.9357758,
+        "label_y": -0.22949,
         "version": 1.0
     },
     "geometry": {

@@ -6,9 +6,9 @@
         "name": "Croatia",
         "capital": "Zagreb",
         "continent": "Europe",
-        "label_x": 16.37241,
-        "label_y": 45.805799,
-        "version": 1.0        
+        "label_x": 15.7386357,
+        "label_y": 45.3340211,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

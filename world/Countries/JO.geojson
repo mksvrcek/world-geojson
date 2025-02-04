@@ -6,9 +6,9 @@
         "name": "Jordan",
         "capital": "Amman",
         "continent": "Asia",
-        "label_x": 36.375991,
-        "label_y": 30.805025,
-        "version": 1.0        
+        "label_x": 36.3921209,
+        "label_y": 31.1257301,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

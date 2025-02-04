@@ -6,9 +6,9 @@
         "name": "Kenya",
         "capital": "Nairobi",
         "continent": "Africa",
-        "label_x": 37.907632,
-        "label_y": 0.549043,
-        "version": 1.0        
+        "label_x": 37.6091361,
+        "label_y": 0.5007655,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

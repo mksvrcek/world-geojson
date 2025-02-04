@@ -6,9 +6,9 @@
         "name": "North Macedonia",
         "capital": "Skopje",
         "continent": "Europe",
-        "label_x": 21.555839,
-        "label_y": 41.558223,
-        "version": 1.0        
+        "label_x": 21.7313965,
+        "label_y": 41.6381916,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

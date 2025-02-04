@@ -6,9 +6,9 @@
         "name": "Malta",
         "capital": "Valletta",
         "continent": "Europe",
-        "label_x": 14.433005,
-        "label_y": 35.892886,
-        "version": 1.0        
+        "label_x": 14.4138667,
+        "label_y": 35.9489455,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

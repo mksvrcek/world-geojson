@@ -6,9 +6,9 @@
         "name": "Greece",
         "capital": "Athens",
         "continent": "Europe",
-        "label_x": 21.72568,
-        "label_y": 39.492763,
-        "version": 1.0        
+        "label_x": 22.4313471,
+        "label_y": 38.8948223,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

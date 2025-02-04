@@ -6,9 +6,9 @@
         "name": "Ireland",
         "capital": "Dublin",
         "continent": "Europe",
-        "label_x": -7.798588,
-        "label_y": 53.078726,
-        "version": 1.0        
+        "label_x": -7.9298374,
+        "label_y": 53.4224333,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

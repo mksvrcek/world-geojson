@@ -6,9 +6,9 @@
         "name": "Gambia",
         "capital": "Banjul",
         "continent": "Africa",
-        "label_x": -14.998318,
-        "label_y": 13.641721,
-        "version": 1.0        
+        "label_x": -15.5161402,
+        "label_y": 13.437437,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

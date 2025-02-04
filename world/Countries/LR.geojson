@@ -6,9 +6,9 @@
         "name": "Liberia",
         "capital": "Monrovia",
         "continent": "Africa",
-        "label_x": -9.460379,
-        "label_y": 6.447177,
-        "version": 1.0        
+        "label_x": -9.7179856,
+        "label_y": 6.3592169,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

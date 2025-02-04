@@ -6,9 +6,9 @@
         "name": "Nigeria",
         "capital": "Abuja",
         "continent": "Africa",
-        "label_x": 7.50322,
-        "label_y": 9.439799,
-        "version": 1.0        
+        "label_x": 8.0894561,
+        "label_y": 9.5132431,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

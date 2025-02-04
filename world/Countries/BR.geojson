@@ -4,10 +4,10 @@
         "sov": "BR",
         "type": "UN",
         "name": "Brazil",
-        "capital": "Brasília",
+        "capital": "Bras\u00edlia",
         "continent": "South America",
-        "label_x": -49.55945,
-        "label_y": -12.098687,
+        "label_x": -52.3085551,
+        "label_y": -9.6834685,
         "version": 1.0
     },
     "geometry": {

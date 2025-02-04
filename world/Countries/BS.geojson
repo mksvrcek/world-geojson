@@ -6,8 +6,8 @@
         "name": "Bahamas",
         "capital": "Nassau",
         "continent": "North America",
-        "label_x": -77.146688,
-        "label_y": 26.401789,
+        "label_x": -77.4,
+        "label_y": 25.0,
         "version": 1.0
     },
     "geometry": {

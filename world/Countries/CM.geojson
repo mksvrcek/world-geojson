@@ -4,10 +4,10 @@
         "sov": "CM",
         "type": "UN",
         "name": "Cameroon",
-        "capital": "Yaoundé",
+        "capital": "Yaound\u00e9",
         "continent": "Africa",
-        "label_x": 12.473488,
-        "label_y": 4.585041,
+        "label_x": 10.9085442,
+        "label_y": 5.7321212,
         "version": 1.0
     },
     "geometry": {

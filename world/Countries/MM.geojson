@@ -6,9 +6,9 @@
         "name": "Myanmar",
         "capital": "Naypyidaw",
         "continent": "Asia",
-        "label_x": 95.804497,
-        "label_y": 21.573855,
-        "version": 1.0        
+        "label_x": 96.2536777,
+        "label_y": 21.1245849,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

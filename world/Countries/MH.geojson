@@ -6,9 +6,9 @@
         "name": "Marshall Islands",
         "capital": "Majuro",
         "continent": "Africa",
-        "label_x": 171.193609,
-        "label_y": 7.082568,
-        "version": 1.0        
+        "label_x": 167.4758192,
+        "label_y": 9.39583,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

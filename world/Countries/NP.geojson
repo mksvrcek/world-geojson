@@ -6,9 +6,9 @@
         "name": "Nepal",
         "capital": "Kathmandu",
         "continent": "Asia",
-        "label_x": 83.639914,
-        "label_y": 28.297925,
-        "version": 1.0        
+        "label_x": 84.0188694,
+        "label_y": 27.9528571,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

@@ -4,10 +4,10 @@
         "sov": "TO",
         "type": "UN",
         "name": "Tongo",
-        "capital": "Nukuʻalofa",
+        "capital": "Nuku\u02bbalofa",
         "continent": "Oceania",
-        "label_x": -175.163014,
-        "label_y": -21.210026,
+        "label_x": -175.2728401,
+        "label_y": -21.1676654,
         "version": 1.0
     },
     "geometry": {

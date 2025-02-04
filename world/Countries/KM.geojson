@@ -6,9 +6,9 @@
         "name": "Comoros",
         "capital": "Moroni",
         "continent": "Africa",
-        "label_x": 43.318094,
-        "label_y": -11.727683,
-        "version": 1.0        
+        "label_x": 44.4109056,
+        "label_y": -12.2260765,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

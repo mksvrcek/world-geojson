@@ -6,8 +6,8 @@
         "name": "United States",
         "capital": "Washington DC",
         "continent": "North America",
-        "label_x": 1,
-        "label_y": 1,
+        "label_x": -98.6785034,
+        "label_y": 39.999733,
         "version": 1.0
     },
     "geometry": {

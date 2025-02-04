@@ -6,9 +6,9 @@
         "name": "Guyana",
         "capital": "Georgetown",
         "continent": "South America",
-        "label_x": -58.942643,
-        "label_y": 5.124317,
-        "version": 1.0        
+        "label_x": -58.8012748,
+        "label_y": 4.6333689,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

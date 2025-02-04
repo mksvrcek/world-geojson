@@ -4,10 +4,10 @@
         "sov": "ST",
         "type": "UN",
         "name": "Sao Tome and Principle",
-        "capital": "São Tomé",
+        "capital": "S\u00e3o Tom\u00e9",
         "continent": "Africa",
-        "label_x": 7.021,
-        "label_y": 0.9709,
+        "label_x": 6.5977248,
+        "label_y": 0.2194835,
         "version": 1.0
     },
     "geometry": {

@@ -4,10 +4,10 @@
         "sov": "CO",
         "type": "UN",
         "name": "Colombia",
-        "capital": "Bogotá",
+        "capital": "Bogot\u00e1",
         "continent": "South America",
-        "label_x": -73.174347,
-        "label_y": 3.373111,
+        "label_x": -74.8013003,
+        "label_y": 3.3747423,
         "version": 1.0
     },
     "geometry": {

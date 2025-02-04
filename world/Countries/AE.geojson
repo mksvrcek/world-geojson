@@ -6,14 +6,13 @@
         "name": "United Arab Emirates",
         "capital": "Abu Dhabi",
         "continent": "Asia",
-        "label_x": 54.547256,
-        "label_y": 23.466285,
+        "label_x": 55.3075832,
+        "label_y": 25.2692329,
         "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",
-        "coordinates": 
-        [
+        "coordinates": [
             [
                 [
                     [

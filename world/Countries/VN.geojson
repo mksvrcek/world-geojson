@@ -3,11 +3,11 @@
     "properties": {
         "sov": "VN",
         "type": "UN",
-        "name": "Vietnam",
+        "name": "Viet Nam",
         "capital": "Hanoi",
         "continent": "Asia",
-        "label_x": 105.387292,
-        "label_y": 21.715416,
+        "label_x": 108.3680998,
+        "label_y": 13.3186546,
         "version": 1.0
     },
     "geometry": {

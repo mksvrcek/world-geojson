@@ -6,9 +6,9 @@
         "name": "Monaco",
         "capital": "Monaco",
         "continent": "Europe",
-        "label_x": 7.398291,
-        "label_y": 43.739652,
-        "version": 1.0        
+        "label_x": 7.41667,
+        "label_y": 43.73333,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

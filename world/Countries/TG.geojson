@@ -4,10 +4,10 @@
         "sov": "TG",
         "type": "UN",
         "name": "Togo",
-        "capital": "Lomé",
+        "capital": "Lom\u00e9",
         "continent": "Africa",
-        "label_x": 1.058113,
-        "label_y": 8.80722,
+        "label_x": 0.9748853,
+        "label_y": 8.5616987,
         "version": 1.0
     },
     "geometry": {

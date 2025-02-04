@@ -6,9 +6,9 @@
         "name": "Lesotho",
         "capital": "Maseru",
         "continent": "Africa",
-        "label_x": 28.246639,
-        "label_y": -29.480158,
-        "version": 1.0        
+        "label_x": 28.1796113,
+        "label_y": -29.7092842,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

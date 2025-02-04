@@ -6,9 +6,9 @@
         "name": "Indonesia",
         "capital": "Jakarta",
         "continent": "Asia",
-        "label_x": 101.892949,
-        "label_y": -0.954404,
-        "version": 1.0        
+        "label_x": 119.854142,
+        "label_y": -3.1049764,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

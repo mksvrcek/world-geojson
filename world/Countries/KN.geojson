@@ -6,9 +6,9 @@
         "name": "Saint Kitts and Nevis",
         "capital": "Basseterre",
         "continent": "North America",
-        "label_x": -62.757975,
-        "label_y": 17.336558,
-        "version": 1.0        
+        "label_x": -62.7443554,
+        "label_y": 17.3153417,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

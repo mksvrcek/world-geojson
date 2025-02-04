@@ -6,9 +6,9 @@
         "name": "Honduras",
         "capital": "Tegucigalpa",
         "continent": "North America",
-        "label_x": -86.887604,
-        "label_y": 14.794801,
-        "version": 1.0        
+        "label_x": -87.2256433,
+        "label_y": 14.504704,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

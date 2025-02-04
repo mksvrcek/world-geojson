@@ -6,9 +6,9 @@
         "name": "Lebanon",
         "capital": "Beirut",
         "continent": "Asia",
-        "label_x": 35.992892,
-        "label_y": 34.133368,
-        "version": 1.0        
+        "label_x": 35.887572,
+        "label_y": 34.1917381,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",
