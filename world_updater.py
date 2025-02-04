@@ -6,10 +6,10 @@ import time
 
 def process_csv(csv_file_path):
     with open(csv_file_path, mode='r') as file:
-        csv_reader = csv.DictReader(file)
+        csv_reader = csv.reader(file)
         for row in csv_reader:
-            country_code = row['country_code']
-            properties = {key: value for key, value in row.items() if key != 'country_code'}
+            country_code = row[0]  # Assuming the first column is the country code
+            properties = {f'property_{i}': value for i, value in enumerate(row[1:], start=1)}
             update_geojson(country_code, properties)
 
 def update_geojson(country_code, properties):
