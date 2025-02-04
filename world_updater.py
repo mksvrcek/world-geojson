@@ -38,11 +38,11 @@ def find_geojson_file(country_code):
                 return os.path.join(directory, filename)
     return None
 
-def commit_and_push_changes(branch_name):
-    subprocess.run(['git', 'checkout', '-b', branch_name])
-    subprocess.run(['git', 'add', '.'])
-    subprocess.run(['git', 'commit', '-m', f'Update GeoJSON files based on CSV input'])
-    subprocess.run(['git', 'push', 'origin', branch_name])
+# def commit_and_push_changes(branch_name):
+#     subprocess.run(['git', 'checkout', '-b', branch_name])
+#     subprocess.run(['git', 'add', '.'])
+#     subprocess.run(['git', 'commit', '-m', f'Update GeoJSON files based on CSV input'])
+#     subprocess.run(['git', 'push', 'origin', branch_name])
 
 if __name__ == "__main__":
     import sys
@@ -51,5 +51,5 @@ if __name__ == "__main__":
         sys.exit(1)
     csv_file_path = sys.argv[1]
     process_csv(csv_file_path)
-    branch_name = f"update-geojson-{int(time.time())}"
-    commit_and_push_changes(branch_name)
+    # branch_name = f"update-geojson-{int(time.time())}"
+    # commit_and_push_changes(branch_name)
