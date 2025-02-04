@@ -9,7 +9,10 @@ def process_csv(csv_file_path):
         csv_reader = csv.reader(file)
         for row in csv_reader:
             country_code = row[0]  # Assuming the first column is the country code
-            properties = {f'property_{i}': value for i, value in enumerate(row[1:], start=1)}
+            properties = {}
+            for value in row[1:]:
+                key, val = value.split(':', 1)
+                properties[key.strip()] = val.strip()
             update_geojson(country_code, properties)
 
 def update_geojson(country_code, properties):
@@ -28,6 +31,8 @@ def update_geojson(country_code, properties):
 def find_geojson_file(country_code):
     directories = ['world/Countries', 'world/Teritorries']
     for directory in directories:
+        if not os.path.exists(directory):
+            continue
         for filename in os.listdir(directory):
             if filename.startswith(country_code):
                 return os.path.join(directory, filename)
