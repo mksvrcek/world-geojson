@@ -6,9 +6,9 @@
         "name": "Hungary",
         "capital": "Budapest",
         "continent": "Europe",
-        "label_x": 19.447867,
-        "label_y": 47.086841,
-        "version": 1.0        
+        "label_x": 19.3758674,
+        "label_y": 47.0450584,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

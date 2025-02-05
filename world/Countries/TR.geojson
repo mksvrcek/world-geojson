@@ -3,11 +3,11 @@
     "properties": {
         "sov": "TR",
         "type": "UN",
-        "name": "Türkiye",
+        "name": "T\u00fcrkiye",
         "capital": "Ankara",
         "continent": "Asia",
-        "label_x": 34.508268,
-        "label_y": 39.345388,
+        "label_x": 35.1245818,
+        "label_y": 39.0614154,
         "version": 1.0
     },
     "geometry": {

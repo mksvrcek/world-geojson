@@ -6,9 +6,9 @@
         "name": "Laos",
         "capital": "Vientiane",
         "continent": "Asia",
-        "label_x": 102.533912,
-        "label_y": 19.431821,
-        "version": 1.0        
+        "label_x": 102.6321497,
+        "label_y": 19.5415337,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

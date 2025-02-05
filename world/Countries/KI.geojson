@@ -6,9 +6,9 @@
         "name": "Kiribati",
         "capital": "Tarawa",
         "continent": "Oceania",
-        "label_x": -157.384577,
-        "label_y": 1.820437,
-        "version": 1.0        
+        "label_x": -157.3918543,
+        "label_y": 2.002841,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

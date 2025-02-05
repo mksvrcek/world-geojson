@@ -6,9 +6,9 @@
         "name": "Nambia",
         "capital": "Windhoek",
         "continent": "Africa",
-        "label_x": 17.108166,
-        "label_y": -20.575298,
-        "version": 1.0        
+        "label_x": 17.1751286,
+        "label_y": -21.9902504,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

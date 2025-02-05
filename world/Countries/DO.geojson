@@ -3,11 +3,11 @@
     "properties": {
         "sov": "DO",
         "type": "UN",
-        "name": "Dominican Republic (the)",
+        "name": "Dominican Republic",
         "capital": "Santo Domingo",
         "continent": "North America",
-        "label_x": -70.653998,
-        "label_y": 19.104137,
+        "label_x": -70.086478,
+        "label_y": 18.892313,
         "version": 1.0
     },
     "geometry": {

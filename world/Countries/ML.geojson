@@ -6,9 +6,9 @@
         "name": "Mali",
         "capital": "Bamako",
         "continent": "Africa",
-        "label_x": -2.038455,
-        "label_y": 18.692713,
-        "version": 1.0        
+        "label_x": -8.0017251,
+        "label_y": 12.6461735,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

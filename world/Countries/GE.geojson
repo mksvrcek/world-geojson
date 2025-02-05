@@ -6,9 +6,9 @@
         "name": "Georgia",
         "capital": "Tbilisi",
         "continent": "Asia",
-        "label_x": 43.735724,
-        "label_y": 41.870087,
-        "version": 1.0        
+        "label_x": 43.3242669,
+        "label_y": 42.0501701,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

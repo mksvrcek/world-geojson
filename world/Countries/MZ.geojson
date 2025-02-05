@@ -6,9 +6,9 @@
         "name": "Mozambique",
         "capital": "Maputo",
         "continent": "Africa",
-        "label_x": 37.83789,
-        "label_y": -13.94323,
-        "version": 1.0        
+        "label_x": 35.3419967,
+        "label_y": -18.1454277,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

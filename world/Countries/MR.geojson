@@ -6,9 +6,9 @@
         "name": "Mauritania",
         "capital": "Nouakchott",
         "continent": "Africa",
-        "label_x": -9.740299,
-        "label_y": 19.587062,
-        "version": 1.0        
+        "label_x": -11.4240248,
+        "label_y": 18.5577225,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

@@ -4,10 +4,10 @@
         "sov": "CR",
         "type": "UN",
         "name": "Costa Rica",
-        "capital": "San José",
+        "capital": "San Jos\u00e9",
         "continent": "North America",
-        "label_x": -84.077922,
-        "label_y": 10.0651,
+        "label_x": -83.917331,
+        "label_y": 9.6412628,
         "version": 1.0
     },
     "geometry": {

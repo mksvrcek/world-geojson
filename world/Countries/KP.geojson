@@ -3,12 +3,12 @@
     "properties": {
         "sov": "KP",
         "type": "UN",
-        "name": "Democratic People's Republic of Korea",
+        "name": "North Korea",
         "capital": "Pyongyang",
         "continent": "Asia",
-        "label_x": 126.444516,
-        "label_y": 39.885252,
-        "version": 1.0        
+        "label_x": 126.5497925,
+        "label_y": 39.9300339,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

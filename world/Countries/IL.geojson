@@ -6,9 +6,9 @@
         "name": "Israel",
         "capital": "Jerusalem",
         "continent": "Asia",
-        "label_x": 34.847915,
-        "label_y": 30.911148,
-        "version": 1.0        
+        "label_x": 34.7753658,
+        "label_y": 32.0740331,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

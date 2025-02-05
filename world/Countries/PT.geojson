@@ -6,8 +6,8 @@
         "name": "Portugal",
         "capital": "Lisbon",
         "continent": "Europe",
-        "label_x": 1,
-        "label_y": 1,
+        "label_x": -8.0031407,
+        "label_y": 39.3062847,
         "version": 1.0
     },
     "geometry": {

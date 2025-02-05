@@ -6,9 +6,9 @@
         "name": "Guinea",
         "capital": "Conakry",
         "continent": "Africa",
-        "label_x": -10.016402,
-        "label_y": 10.618516,
-        "version": 1.0        
+        "label_x": -10.9911101,
+        "label_y": 10.4281559,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

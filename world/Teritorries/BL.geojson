@@ -3,11 +3,11 @@
     "properties": {
         "sov": "FR",
         "type": "Dep",
-        "name": "Saint Barthélemy",
+        "name": "Saint Barth\u00e9lemy",
         "capital": "Gustavia",
         "continent": "North America",
-        "label_x": -62.833193,
-        "label_y": 17.901987,
+        "label_x": -62.8144003,
+        "label_y": 17.9124262,
         "version": 1.0
     },
     "geometry": {

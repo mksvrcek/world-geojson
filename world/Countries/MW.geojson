@@ -6,9 +6,9 @@
         "name": "Malawi",
         "capital": "Lilongwe",
         "continent": "Africa",
-        "label_x": 33.608082,
-        "label_y": -13.386737,
-        "version": 1.0        
+        "label_x": 34.036726,
+        "label_y": -13.3022125,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

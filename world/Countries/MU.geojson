@@ -6,9 +6,9 @@
         "name": "Mauritius",
         "capital": "Port Louis",
         "continent": "Africa",
-        "label_x": 57.565848,
-        "label_y": -20.299506,
-        "version": 1.0        
+        "label_x": 57.5910169,
+        "label_y": -20.2526041,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

@@ -6,9 +6,9 @@
         "name": "Malaysia",
         "capital": "Kuala Lumpur",
         "continent": "Asia",
-        "label_x": 113.83708,
-        "label_y": 2.528667,
-        "version": 1.0        
+        "label_x": 101.6275459,
+        "label_y": 3.1010333,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

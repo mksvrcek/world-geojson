@@ -4,11 +4,11 @@
         "sov": "IS",
         "type": "UN",
         "name": "Iceland",
-        "capital": "Reykjavík",
+        "capital": "Reykjav\u00edk",
         "continent": "Europe",
-        "label_x": -18.673711,
-        "label_y": 64.779286,
-        "version": 1.0        
+        "label_x": -21.8744563,
+        "label_y": 64.130796,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

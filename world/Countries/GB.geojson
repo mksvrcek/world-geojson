@@ -6,8 +6,8 @@
         "name": "United Kingdom",
         "capital": "London",
         "continent": "Europe",
-        "label_x": 1,
-        "label_y": 1,
+        "label_x": -1.9790574,
+        "label_y": 54.2605819,
         "version": 1.0
     },
     "geometry": {

@@ -6,9 +6,9 @@
         "name": "Iraq",
         "capital": "Baghdad",
         "continent": "Asia",
-        "label_x": 43.26181,
-        "label_y": 33.09403,
-        "version": 1.0        
+        "label_x": 42.8029174,
+        "label_y": 33.1392665,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

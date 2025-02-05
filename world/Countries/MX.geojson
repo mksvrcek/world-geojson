@@ -6,9 +6,9 @@
         "name": "Mexico",
         "capital": "Mexico City",
         "continent": "North America",
-        "label_x": -102.289448,
-        "label_y": 23.919988,
-        "version": 1.0        
+        "label_x": -102.5725396,
+        "label_y": 22.77552,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

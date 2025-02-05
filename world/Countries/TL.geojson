@@ -6,8 +6,8 @@
         "name": "Timor-Leste",
         "capital": "Dili",
         "continent": "Asia",
-        "label_x": 1,
-        "label_y": 1,
+        "label_x": 125.8658334,
+        "label_y": -8.8191639,
         "version": 1.0
     },
     "geometry": {

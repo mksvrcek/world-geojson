@@ -6,9 +6,9 @@
         "name": "Kyrgyzstan",
         "capital": "Bishkek",
         "continent": "Asia",
-        "label_x": 74.532637,
-        "label_y": 41.66854,
-        "version": 1.0        
+        "label_x": 74.5552227,
+        "label_y": 41.4640248,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

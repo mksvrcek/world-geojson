@@ -6,9 +6,9 @@
         "name": "Cambodia",
         "capital": "Phnom Penh",
         "continent": "Asia",
-        "label_x": 104.50487,
-        "label_y": 12.647584,
-        "version": 1.0        
+        "label_x": 104.9103991,
+        "label_y": 12.6940934,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

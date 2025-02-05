@@ -6,9 +6,9 @@
         "name": "Equatorial Guinea",
         "capital": "Malabo",
         "continent": "Africa",
-        "label_x": 8.9902,
-        "label_y": 2.333,
-        "version": 1.0        
+        "label_x": 10.1324346,
+        "label_y": 1.7544887,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

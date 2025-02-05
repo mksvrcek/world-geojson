@@ -6,10 +6,10 @@
         "name": "Lithuania",
         "capital": "Vilnius",
         "continent": "Europe",
-        "label_x": 24.089932,
-        "label_y": 55.103703,
-        "version": 1.0        
-    },        
+        "label_x": 23.8967029,
+        "label_y": 55.3364383,
+        "version": 1.0
+    },
     "geometry": {
         "type": "Polygon",
         "coordinates": [

@@ -4,11 +4,11 @@
         "sov": "MD",
         "type": "UN",
         "name": "Moldova",
-        "capital": "Chișinău",
+        "capital": "Chi\u0219in\u0103u",
         "continent": "Europe",
-        "label_x": 28.487904,
-        "label_y": 47.434999,
-        "version": 1.0        
+        "label_x": 28.366633,
+        "label_y": 47.5050031,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

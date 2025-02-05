@@ -6,9 +6,9 @@
         "name": "Saint Lucia",
         "capital": "Castries",
         "continent": "North America",
-        "label_x": -60.980094,
-        "label_y": 13.892371,
-        "version": 1.0        
+        "label_x": -60.9645185,
+        "label_y": 13.8952876,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

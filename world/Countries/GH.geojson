@@ -6,9 +6,9 @@
         "name": "Ghana",
         "capital": "Accra",
         "continent": "Africa",
-        "label_x": -1.036941,
-        "label_y": 7.717639,
-        "version": 1.0        
+        "label_x": -1.3683717,
+        "label_y": 7.3726861,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

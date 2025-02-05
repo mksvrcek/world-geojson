@@ -6,9 +6,9 @@
         "name": "Guatemala",
         "capital": "Guatemala City",
         "continent": "North America",
-        "label_x": -90.497134,
-        "label_y": 14.982133,
-        "version": 1.0        
+        "label_x": -90.5600285,
+        "label_y": 15.6093419,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

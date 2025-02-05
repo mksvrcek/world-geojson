@@ -4,11 +4,11 @@
         "sov": "MV",
         "type": "UN",
         "name": "Maldives",
-        "capital": "Malé",
+        "capital": "Mal\u00e9",
         "continent": "Asia",
-        "label_x": 73.507554,
-        "label_y": 4.174441,
-        "version": 1.0        
+        "label_x": 73.1623681,
+        "label_y": 3.2015121,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

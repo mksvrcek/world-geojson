@@ -6,10 +6,10 @@
         "name": "Latvia",
         "capital": "Riga",
         "continent": "Europe",
-        "label_x": 25.458723,
-        "label_y": 57.066872,
-        "version": 1.0        
-    },   
+        "label_x": 24.915373,
+        "label_y": 56.8564963,
+        "version": 1.0
+    },
     "geometry": {
         "type": "Polygon",
         "coordinates": [

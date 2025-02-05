@@ -6,10 +6,10 @@
         "name": "Luxembourg",
         "capital": "Luxembourg",
         "continent": "Europe",
-        "label_x": 6.07762,
-        "label_y": 49.733732,
-        "version": 1.0        
-    },                
+        "label_x": 6.1088007,
+        "label_y": 49.7823482,
+        "version": 1.0
+    },
     "geometry": {
         "type": "Polygon",
         "coordinates": [

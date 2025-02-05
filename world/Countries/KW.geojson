@@ -6,9 +6,9 @@
         "name": "Kuwait",
         "capital": "Kuwait City",
         "continent": "Asia",
-        "label_x": 47.313999,
-        "label_y": 29.413628,
-        "version": 1.0        
+        "label_x": 47.6335785,
+        "label_y": 29.3607754,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

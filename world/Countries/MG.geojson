@@ -6,9 +6,9 @@
         "name": "Madagascar",
         "capital": "Antananarivo",
         "continent": "Africa",
-        "label_x": 46.704241,
-        "label_y": -18.628288,
-        "version": 1.0        
+        "label_x": 46.5262506,
+        "label_y": -19.8633617,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

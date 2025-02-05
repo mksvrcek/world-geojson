@@ -6,9 +6,9 @@
         "name": "Mongolia",
         "capital": "Ulaanbaatar",
         "continent": "Asia",
-        "label_x": 104.150405,
-        "label_y": 45.997488,
-        "version": 1.0        
+        "label_x": 103.0667624,
+        "label_y": 46.8364247,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

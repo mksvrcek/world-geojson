@@ -6,9 +6,9 @@
         "name": "India",
         "capital": "New Delhi",
         "continent": "Asia",
-        "label_x": 79.358105,
-        "label_y": 22.686852,
-        "version": 1.0        
+        "label_x": 78.8918055,
+        "label_y": 23.0411726,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",

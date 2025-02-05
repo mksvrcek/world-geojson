@@ -6,9 +6,9 @@
         "name": "Niger",
         "capital": "Niamey",
         "continent": "Africa",
-        "label_x": 9.504356,
-        "label_y": 17.446195,
-        "version": 1.0        
+        "label_x": 9.7122154,
+        "label_y": 16.9424506,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

@@ -6,9 +6,9 @@
         "name": "Montenegro",
         "capital": "Podgorica",
         "continent": "Europe",
-        "label_x": 19.143727,
-        "label_y": 42.803101,
-        "version": 1.0        
+        "label_x": 19.2230849,
+        "label_y": 42.8045083,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

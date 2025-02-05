@@ -6,9 +6,9 @@
         "name": "Libya",
         "capital": "Tripoli",
         "continent": "Africa",
-        "label_x": 18.011015,
-        "label_y": 26.638944,
-        "version": 1.0        
+        "label_x": 17.5066496,
+        "label_y": 26.768524,
+        "version": 1.0
     },
     "geometry": {
         "type": "Polygon",

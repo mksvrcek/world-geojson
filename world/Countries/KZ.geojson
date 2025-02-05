@@ -6,9 +6,9 @@
         "name": "Kazakhstan",
         "capital": "Astana",
         "continent": "Asia",
-        "label_x": 68.685548,
-        "label_y": 49.054149,
-        "version": 1.0        
+        "label_x": 67.3828572,
+        "label_y": 47.827276,
+        "version": 1.0
     },
     "geometry": {
         "type": "MultiPolygon",
