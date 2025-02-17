@@ -1,218 +1,216 @@
-AD,label_x:1.5762357,label_y:42.5506596
-ES,label_x:-3.242865,label_y:41.349148
-BE,label_x:4.7006952,label_y:50.6162525
-NL,label_x:5.6735911,label_y:52.637082
-GB,label_x:-1.9790574,label_y:54.2605819
-FR,label_x:2.1787414,label_y:46.2636145
-IE,label_x:-7.9298374,label_y:53.4224333
-DE,label_x:10.4573474,label_y:51.2094391
-IT,label_x:12.5926838,label_y:42.6729993
-AT,label_x:14.8448323,label_y:47.6479998
-CH,label_x:8.4164954,label_y:46.9101275
-DK,label_x:10.0746804,label_y:55.9562417
-NO,label_x:8.8815986,label_y:61.461553
-SE,label_x:15.349523,label_y:62.6877826
-FI,label_x:26.6235334,label_y:64.017562
-EE,label_x:25.3943711,label_y:58.6744186
-LV,label_x:24.915373,label_y:56.8564963
-LT,label_x:23.8967029,label_y:55.3364383
-BY,label_x:28.1438671,label_y:53.5182361
-PL,label_x:18.7065019,label_y:52.2235778
-CZ,label_x:15.3451304,label_y:49.7247107
-SI,label_x:14.987427,label_y:46.1384616
-HR,label_x:15.7386357,label_y:45.3340211
-BA,label_x:18.1171504,label_y:44.1221298
-HU,label_x:19.3758674,label_y:47.0450584
-SK,label_x:19.6729402,label_y:48.7461189
-UA,label_x:31.7221141,label_y:48.9073723
-MD,label_x:28.366633,label_y:47.5050031,name:Moldova
-RO,label_x:26.1115229,label_y:44.4454409
-RS,label_x:20.9064011,label_y:44.0156648
-BG,label_x:25.4127181,label_y:42.6685653
-ME,label_x:19.2230849,label_y:42.8045083
-AL,label_x:19.8162348,label_y:41.3281167
-GR,label_x:22.4313471,label_y:38.8948223
-MK,label_x:21.7313965,label_y:41.6381916
-MT,label_x:14.4138667,label_y:35.9489455
-CY,label_x:33.4333564,label_y:35.1301257
-TR,label_x:35.1245818,label_y:39.0614154
-PT,label_x:-8.0031407,label_y:39.3062847
-LU,label_x:6.1088007,label_y:49.7823482
-LI,label_x:9.5409521,label_y:47.1602822
-MC,label_x:7.41667,label_y:43.73333
-RU,label_x:96.7148551,label_y:61.9874292
-GE,label_x:43.3242669,label_y:42.0501701
-AM,label_x:44.6297789,label_y:40.2935696
-AZ,label_x:47.7729738,label_y:40.3529544
-IR,label_x:53.4877657,label_y:32.8152734
-IQ,label_x:42.8029174,label_y:33.1392665
-SY,label_x:37.1259628,label_y:36.2166629
-IL,label_x:34.7753658,label_y:32.0740331
-JO,label_x:36.3921209,label_y:31.1257301
-SA,label_x:46.7101739,label_y:24.6381917
-YE,label_x:47.6664502,label_y:15.7440855
-QA,label_x:51.2175358,label_y:25.525388
-KW,label_x:47.6335785,label_y:29.3607754
-AE,label_x:55.3075832,label_y:25.2692329
-OM,label_x:56.3815345,label_y:20.0227851
-AF,label_x:65.658159,label_y:33.8286852
-TM,label_x:59.0936668,label_y:39.2400854
-UZ,label_x:63.1798864,label_y:41.8340514
-TJ,label_x:70.7300987,label_y:38.7025745
-KG,label_x:74.5552227,label_y:41.4640248
-PK,label_x:69.3650837,label_y:30.3351274
-IN,label_x:78.8918055,label_y:23.0411726
-BD,label_x:90.2832206,label_y:23.7955721
-NP,label_x:84.0188694,label_y:27.9528571
-BT,label_x:90.434764,label_y:27.4168801
-MM,label_x:96.2536777,label_y:21.1245849
-LA,label_x:102.6321497,label_y:19.5415337
-TH,label_x:101.5200525,label_y:15.6603923
-KH,label_x:104.9103991,label_y:12.6940934
-VN,label_x:108.3680998,label_y:13.3186546,name:Viet Nam
-MY,label_x:101.6275459,label_y:3.1010333
-ID,label_x:119.854142,label_y:-3.1049764
-PH,label_x:121.0242965,label_y:14.4359473
-CN,label_x:104.165802,label_y:35.8600198
-KP,label_x:126.5497925,label_y:39.9300339,name:North Korea
-KR,label_x:127.8558413,label_y:36.4583508,name:South Korea
-JP,label_x:136.690816,label_y:35.672792
-TL,label_x:125.8658334,label_y:-8.8191639
-PG,label_x:143.9402869,label_y:-6.2690947
-AU,label_x:133.263309,label_y:-25.4932418
-LK,label_x:80.779494,label_y:7.5172418
-MV,label_x:73.1623681,label_y:3.2015121
-SC,label_x:55.4671833,label_y:-4.6778487
-KM,label_x:44.4109056,label_y:-12.2260765
-MG,label_x:46.5262506,label_y:-19.8633617
-MU,label_x:57.5910169,label_y:-20.2526041
-ZA,label_x:28.0012256,label_y:-26.1161705
-LS,label_x:28.1796113,label_y:-29.7092842
-BW,label_x:24.2548308,label_y:-22.2705139
-NA,label_x:17.1751286,label_y:-21.9902504
-ZW,label_x:29.5163621,label_y:-19.1666898
-MZ,label_x:35.3419967,label_y:-18.1454277
-MW,label_x:34.036726,label_y:-13.3022125
-ZM,label_x:28.2347898,label_y:-14.3119102
-AO,label_x:17.7626313,label_y:-12.2863849
-RW,label_x:30.0109183,label_y:-2.0027242
-CD,label_x:23.2133824,label_y:-1.4716838
-TZ,label_x:34.8945385,label_y:-6.4530964
-GA,label_x:11.7214938,label_y:-1.3438772
-CG,label_x:15.9357758,label_y:-0.22949,name:Congo
-CM,label_x:10.9085442,label_y:5.7321212
-CF,label_x:18.5596331,label_y:4.3823277
-UG,label_x:32.5206202,label_y:1.1054019
-SS,label_x:31.6033003,label_y:4.8528883
-KE,label_x:37.6091361,label_y:0.5007655
-SO,label_x:47.0799047,label_y:5.4323808
-ET,label_x:39.6356931,label_y:7.8372535
-DJ,label_x:42.6384199,label_y:11.7533478
-ER,label_x:39.0689348,label_y:15.3765146
-SD,label_x:32.5311161,label_y:15.6412761
-TD,label_x:18.8428023,label_y:15.1950643
-NE,label_x:9.7122154,label_y:16.9424506
-NG,label_x:8.0894561,label_y:9.5132431
-BJ,label_x:2.6269808,label_y:9.3391553
-GH,label_x:-1.3683717,label_y:7.3726861
-CI,label_x:-5.5665051,label_y:7.5473633
-BF,label_x:-1.3943641,label_y:12.1873726
-ML,label_x:-8.0017251,label_y:12.6461735
-LR,label_x:-9.7179856,label_y:6.3592169
-SL,label_x:-11.852796,label_y:8.516352
-GN,label_x:-10.9911101,label_y:10.4281559
-SN,label_x:-14.6546681,label_y:14.5027846
-GW,label_x:-15.6029958,label_y:11.8529921
-GM,label_x:-15.5161402,label_y:13.437437
-MR,label_x:-11.4240248,label_y:18.5577225
-MA,label_x:-6.4839757,label_y:31.7134782
-DZ,label_x:2.9777192,label_y:36.7555886
-TN,label_x:10.1817691,label_y:36.7974298
-LY,label_x:17.5066496,label_y:26.768524
-EG,label_x:31.6885554,label_y:26.5619956
-ST,label_x:6.5977248,label_y:0.2194835
-GQ,label_x:10.1324346,label_y:1.7544887
-CV,label_x:-24.0098171,label_y:16.0041918
-AR,label_x:-64.1928283,label_y:-31.4190142
-CL,label_x:-71.0957324,label_y:-34.572976
-PY,label_x:-58.3052352,label_y:-23.4876365
-UY,label_x:-56.0116514,label_y:-33.2421876
-BO,label_x:-64.30772,label_y:-17.8620184
-BR,label_x:-52.3085551,label_y:-9.6834685
-PE,label_x:-75.5162138,label_y:-9.7885605
-EC,label_x:-78.3567437,label_y:-1.5193273
-CO,label_x:-74.8013003,label_y:3.3747423
-VE,label_x:-66.0916048,label_y:7.0767736
-GY,label_x:-58.8012748,label_y:4.6333689
-SR,label_x:-55.1591366,label_y:5.831058
-TT,label_x:-61.2559084,label_y:10.485968
-GD,label_x:-61.6549582,label_y:12.155863
-VC,label_x:-61.1890644,label_y:13.0073262
-BB,label_x:-59.5551438,label_y:13.1690249
-LC,label_x:-60.9645185,label_y:13.8952876
-MQ,label_x:-61.0354199,label_y:14.6474199
-DM,label_x:-61.3602606,label_y:15.3977311
-GP,label_x:-61.4556112,label_y:16.2181036
-MS,label_x:-62.1923341,label_y:16.7374079
-AG,label_x:-61.796428,label_y:17.060816
-KN,label_x:-62.7443554,label_y:17.3153417
-SX,label_x:-63.0592201,label_y:18.0423395
-AI,label_x:-63.0643946,label_y:18.2306172
-BL,label_x:-62.8144003,label_y:17.9124262
-BL,label_x:-62.8144003,label_y:17.9124262
+AD,sov:AD,type:UN,name:Andora,capital:Andorra la Vella,continent:Europe,label_x:1.5762357,label_y:42.5506596
+AE,sov:AE,type:UN,name:United Arab Emirates,capital:Abu Dhabi,continent:Asia,label_x:55.3075832,label_y:25.2692329
+AF,sov:AF,type:UN,name:Afghanistan,capital:Kabul,continent:Asia,label_x:65.658159,label_y:33.8286852
+AG,sov:AG,type:UN,name:Antigua and Barbuda,capital:Saint John's,continent:North America,label_x:-61.796428,label_y:17.060816
+AL,sov:AL,type:UN,name:Albania,capital:Tiran\u00eb,continent:Europe,label_x:19.8162348,label_y:41.3281167
+AM,sov:AM,type:UN,name:Armenia,capital:Yerevan,continent:Asia,label_x:44.6297789,label_y:40.2935696
+AO,sov:AO,type:UN,name:Angola,capital:Luanda,continent:Africa,label_x:17.7626313,label_y:-12.2863849
+AR,sov:AR,type:UN,name:Argentina,capital:Buenos Aires,continent:South America,label_x:-64.1928283,label_y:-31.4190142
+AT,sov:AT,type:UN,name:Austria,capital:Vienna,continent:Europe,label_x:14.8448323,label_y:47.6479998
+AU,sov:AU,type:UN,name:Australia,capital:Canberra,continent:Oceania,label_x:133.263309,label_y:-25.4932418
+AZ,sov:AZ,type:UN,name:Azerbaijan,capital:Baku,continent:Asia,label_x:47.7729738,label_y:40.3529544
+BA,sov:BA,type:UN,name:Bosnia and Herzegovina,capital:Sarajevo,continent:Europe,label_x:18.1171504,label_y:44.1221298
+BB,sov:BB,type:UN,name:Barbados,capital:Bridgetown,continent:North America,label_x:-59.5551438,label_y:13.1690249
+BD,sov:BD,type:UN,name:Bangladesh,capital:Dhaka,continent:Asia,label_x:90.2832206,label_y:23.7955721
+BE,sov:BE,type:UN,name:Belgium,capital:Brussels,continent:Europe,label_x:4.7006952,label_y:50.6162525
+BF,sov:BF,type:UN,name:Burkina Faso,capital:Ouagadougou,continent:Africa,label_x:-1.3943641,label_y:12.1873726
+BG,sov:BG,type:UN,name:Bulgaria,capital:Sofia,continent:Europe,label_x:25.4127181,label_y:42.6685653
+BH,sov:BH,type:UN,name:Bahrain,capital:Manama,continent:Asia,label_x:50.5882951,label_y:25.9954587
+BI,sov:BI,type:UN,name:Burundi,capital:Gitega,continent:Africa,label_x:29.9746774,label_y:-3.4092246
+BJ,sov:BJ,type:UN,name:Benin,capital:Porto-Novo,continent:Africa,label_x:2.6269808,label_y:9.3391553
+BN,sov:BN,type:UN,name:Brunei Darussalam,capital:Bandar Seri Begawan,continent:Asia,label_x:114.7484533,label_y:4.5381047
+BO,sov:BO,type:UN,name:Bolivia,capital:Sucre,continent:South America,label_x:-64.30772,label_y:-17.8620184
+BR,sov:BR,type:UN,name:Brazil,capital:Bras\u00edlia,continent:South America,label_x:-52.3085551,label_y:-9.6834685
+BS,sov:BS,type:UN,name:Bahamas,capital:Nassau,continent:North America,label_x:-77.4,label_y:25.0
+BT,sov:BT,type:UN,name:Bhutan,capital:Thimphu,continent:Asia,label_x:90.434764,label_y:27.4168801
+BW,sov:BW,type:UN,name:Botswana,capital:Gaborone,continent:Africa,label_x:24.2548308,label_y:-22.2705139
+BY,sov:BY,type:UN,name:Belarus,capital:Minsk,continent:Europe,label_x:28.1438671,label_y:53.5182361
+BZ,sov:BZ,type:UN,name:Belize,capital:Belmopan,continent:North America,label_x:-88.7417695,label_y:17.0241062
+CA,sov:CA,type:UN,name:Canada,capital:Ottawa,continent:North America,label_x:-102.0323814,label_y:58.111966
+CD,sov:CD,type:UN,name:Democratic Republic of the Congo,capital:Kinshasa,continent:Africa,label_x:23.2133824,label_y:-1.4716838
+CF,sov:CF,type:UN,name:Central African Republic,capital:Bamgui,continent:Africa,label_x:18.5596331,label_y:4.3823277
+CG,sov:CG,type:UN,name:Congo,capital:Brazzaville,continent:Africa,label_x:15.9357758,label_y:-0.22949
+CH,sov:CH,type:UN,name:Switzerland,capital:Bern,continent:Europe,label_x:8.4164954,label_y:46.9101275
+CI,sov:CI,type:UN,name:C\u00f4te D'Ivoire,capital:Yamoussoukro,continent:Africa,label_x:-5.5665051,label_y:7.5473633
+CL,sov:CL,type:UN,name:Chile,capital:Santiago,continent:South America,label_x:-71.0957324,label_y:-34.572976
+CM,sov:CM,type:UN,name:Cameroon,capital:Yaound\u00e9,continent:Africa,label_x:10.9085442,label_y:5.7321212
+CN,sov:CN,type:UN,name:China,capital:Bejing,continent:Asia,label_x:104.165802,label_y:35.8600198
+CO,sov:CO,type:UN,name:Colombia,capital:Bogot\u00e1,continent:South America,label_x:-74.8013003,label_y:3.3747423
+CR,sov:CU,type:UN,name:Cuba,capital:Havana,continent:North America,label_x:-83.917331,label_y:9.6412628
+CV,sov:CV,type:UN,name:Cabo Verde,capital:Praia,continent:Africa,label_x:-24.0098171,label_y:16.0041918
+CY,sov:CY,type:UN,name:Cyprus,capital:Nicosia,continent:Europe,label_x:33.4333564,label_y:35.1301257
+CZ,sov:CZ,type:UN,name:Czechia,capital:Prague,continent:Europe,label_x:15.3451304,label_y:49.7247107
+DE,sov:DE,type:UN,name:Germany,capital:Berlin,continent:Europe,label_x:10.4573474,label_y:51.2094391
+DJ,sov:DJ,type:UN,name:Djibouti,capital:Djibouti,continent:Africa,label_x:42.6384199,label_y:11.7533478
+DK,sov:DK,type:UN,name:Denmark,capital:Copenhagen,continent:Europe,label_x:10.0746804,label_y:55.9562417
+DM,sov:DM,type:UN,name:Dominica,capital:Roseau,continent:North America,label_x:-61.3602606,label_y:15.3977311
+DO,sov:DO,type:UN,name:Dominican Republic,capital:Santo Domingo,continent:North America,label_x:-70.086478,label_y:18.892313
+DZ,sov:DZ,type:UN,name:Algeria,capital:Algiers,continent:Africa,label_x:2.9777192,label_y:36.7555886
+EC,sov:EC,type:UN,name:Ecuador,capital:Quito,continent:South America,label_x:-78.3567437,label_y:-1.5193273
+EE,sov:EE,type:UN,name:Estonia,capital:Tallinn,continent:Europe,label_x:25.3943711,label_y:58.6744186
+EG,sov:EG,type:UN,name:Egypt,capital:Cairo,continent:Africa,label_x:31.6885554,label_y:26.5619956
+ER,sov:ER,type:UN,name:Eritrea,capital:Asmara,continent:Africa,label_x:39.0689348,label_y:15.3765146
+ES,sov:ES,type:UN,name:Spain,capital:Madrid,continent:Europe,label_x:-3.242865,label_y:41.349148
+ET,sov:ET,type:UN,name:Ethiopia,capital:Addis Ababa,continent:Africa,label_x:39.6356931,label_y:7.8372535
+FI,sov:FI,type:UN,name:Finland,capital:Helsinky,continent:Europe,label_x:26.6235334,label_y:64.017562
+FJ,sov:FJ,type:UN,name:Fiji,capital:Suva,continent:Oceania,label_x:177.9848072,label_y:-17.7929927
+FM,sov:FM,type:UN,name:Micronesia,capital:Palikir,continent:Oceania,label_x:158.2434836,label_y:6.8885815
+FR,sov:FR,type:UN,name:France,capital:Paris,continent:Europe,label_x:2.1787414,label_y:46.2636145
+GA,sov:GA,type:UN,name:Gabon,capital:Libreville,continent:Africa,label_x:11.7214938,label_y:-1.3438772
+GB,sov:GB,type:UN,name:United Kingdom,capital:London,continent:Europe,label_x:-1.9790574,label_y:54.2605819
+GD,sov:GD,type:UN,name:Grenada,capital:Saint George's,continent:North America,label_x:-61.6549582,label_y:12.155863
+GE,sov:GE,type:UN,name:Georgia,capital:Tbilisi,continent:Asia,label_x:43.3242669,label_y:42.0501701
+GH,sov:GH,type:UN,name:Ghana,capital:Accra,continent:Africa,label_x:-1.3683717,label_y:7.3726861
+GM,sov:GM,type:UN,name:Gambia,capital:Banjul,continent:Africa,label_x:-15.5161402,label_y:13.437437
+GN,sov:GN,type:UN,name:Guinea,capital:Conakry,continent:Africa,label_x:-10.9911101,label_y:10.4281559
+GQ,sov:GQ,type:UN,name:Equatorial Guinea,capital:Malabo,continent:Africa,label_x:10.1324346,label_y:1.7544887
+GR,sov:GR,type:UN,name:Greece,capital:Athens,continent:Europe,label_x:22.4313471,label_y:38.8948223
+GT,sov:GT,type:UN,name:Guatemala,capital:Guatemala City,continent:North America,label_x:-90.5600285,label_y:15.6093419
+GW,sov:GW,type:UN,name:Guinea Bissau,capital:Bissau,continent:Africa,label_x:-15.6029958,label_y:11.8529921
+GY,sov:GY,type:UN,name:Guyana,capital:Georgetown,continent:South America,label_x:-58.8012748,label_y:4.6333689
+HN,sov:HN,type:UN,name:Honduras,capital:Tegucigalpa,continent:North America,label_x:-87.2256433,label_y:14.504704
+HR,sov:HR,type:UN,name:Croatia,capital:Zagreb,continent:Europe,label_x:15.7386357,label_y:45.3340211
+HT,sov:HT,type:UN,name:Haiti,capital:Port-au-Prince,continent:North America,label_x:-71.997441,label_y:18.9640264
+HU,sov:HU,type:UN,name:Hungary,capital:Budapest,continent:Europe,label_x:19.3758674,label_y:47.0450584
+ID,sov:ID,type:UN,name:Indonesia,capital:Jakarta,continent:Asia,label_x:119.854142,label_y:-3.1049764
+IE,sov:IE,type:UN,name:Ireland,capital:Dublin,continent:Europe,label_x:-7.9298374,label_y:53.4224333
+IL,sov:IL,type:UN,name:Israel,capital:Jerusalem,continent:Asia,label_x:34.7753658,label_y:32.0740331
+IN,sov:IN,type:UN,name:India,capital:New Delhi,continent:Asia,label_x:78.8918055,label_y:23.0411726
+IQ,sov:IQ,type:UN,name:Iraq,capital:Baghdad,continent:Asia,label_x:42.8029174,label_y:33.1392665
+IR,sov:IR,type:UN,name:Iran,capital:Tehran,continent:Asia,label_x:53.4877657,label_y:32.8152734
+IS,sov:IS,type:UN,name:Iceland,capital:Reykjav\u00edk,continent:Europe,label_x:-21.8744563,label_y:64.130796
+IT,sov:IT,type:UN,name:Italy,capital:Rome,continent:Europe,label_x:12.5926838,label_y:42.6729993
+JM,sov:JM,type:UN,name:Jamaica,capital:Kingstone,continent:North America,label_x:-77.1609054,label_y:18.1153676
+JO,sov:JO,type:UN,name:Jordan,capital:Amman,continent:Asia,label_x:36.3921209,label_y:31.1257301
+JP,sov:JP,type:UN,name:Japan,capital:Tokyo,continent:Asia,label_x:136.690816,label_y:35.672792
+KE,sov:KE,type:UN,name:Kenya,capital:Nairobi,continent:Africa,label_x:37.6091361,label_y:0.5007655
+KG,sov:KG,type:UN,name:Kyrgyzstan,capital:Bishkek,continent:Asia,label_x:74.5552227,label_y:41.4640248
+KH,sov:KH,type:UN,name:Cambodia,capital:Phnom Penh,continent:Asia,label_x:104.9103991,label_y:12.6940934
+KI,sov:KI,type:UN,name:Kiribati,capital:Tarawa,continent:Oceania,label_x:-157.3918543,label_y:2.002841
+KM,sov:KM,type:UN,name:Comoros,capital:Moroni,continent:Africa,label_x:44.4109056,label_y:-12.2260765
+KN,sov:KN,type:UN,name:Saint Kitts and Nevis,capital:Basseterre,continent:North America,label_x:-62.7443554,label_y:17.3153417
+KP,sov:KP,type:UN,name:North Korea,capital:Pyongyang,continent:Asia,label_x:126.5497925,label_y:39.9300339
+KR,sov:KR,type:UN,name:South Korea,capital:Seoul,continent:Asia,label_x:127.8558413,label_y:36.4583508
+KW,sov:KW,type:UN,name:Kuwait,capital:Kuwait City,continent:Asia,label_x:47.6335785,label_y:29.3607754
+KZ,sov:KZ,type:UN,name:Kazakhstan,capital:Astana,continent:Asia,label_x:67.3828572,label_y:47.827276
+LA,sov:LA,type:UN,name:Laos,capital:Vientiane,continent:Asia,label_x:102.6321497,label_y:19.5415337
+LB,sov:LB,type:UN,name:Lebanon,capital:Beirut,continent:Asia,label_x:35.887572,label_y:34.1917381
+LC,sov:LC,type:UN,name:Saint Lucia,capital:Castries,continent:North America,label_x:-60.9645185,label_y:13.8952876
+LI,sov:LI,type:UN,name:Liechtenstein,capital:Vaduz,continent:Europe,label_x:9.5409521,label_y:47.1602822
+LK,sov:LK,type:UN,name:Sri Lanka,capital:Colombo,continent:Asia,label_x:80.779494,label_y:7.5172418
+LR,sov:LR,type:UN,name:Liberia,capital:Monrovia,continent:Africa,label_x:-9.7179856,label_y:6.3592169
+LS,sov:LS,type:UN,name:Lesotho,capital:Maseru,continent:Africa,label_x:28.1796113,label_y:-29.7092842
+LT,sov:LT,type:UN,name:Lithuania,capital:Vilnius,continent:Europe,label_x:23.8967029,label_y:55.3364383
+LU,sov:LU,type:UN,name:Luxembourg,capital:Luxembourg,continent:Europe,label_x:6.1088007,label_y:49.7823482
+LV,sov:LV,type:UN,name:Latvia,capital:Riga,continent:Europe,label_x:24.915373,label_y:56.8564963
+LY,sov:LY,type:UN,name:Libya,capital:Tripoli,continent:Africa,label_x:17.5066496,label_y:26.768524
+MA,sov:MA,type:UN,name:Morocco,capital:Rabat,continent:Africa,label_x:-6.4839757,label_y:31.7134782
+MC,sov:MC,type:UN,name:Monaco,capital:Monaco,continent:Europe,label_x:7.41667,label_y:43.73333
+MD,sov:MD,type:UN,name:Moldova,capital:Chi\u0219in\u0103u,continent:Europe,label_x:28.366633,label_y:47.5050031
+ME,sov:ME,type:UN,name:Montenegro,capital:Podgorica,continent:Europe,label_x:19.2230849,label_y:42.8045083
+MG,sov:MG,type:UN,name:Madagascar,capital:Antananarivo,continent:Africa,label_x:46.5262506,label_y:-19.8633617
+MH,sov:MH,type:UN,name:Marshall Islands,capital:Majuro,continent:Africa,label_x:167.4758192,label_y:9.39583
+MK,sov:MK,type:UN,name:North Macedonia,capital:Skopje,continent:Europe,label_x:21.7313965,label_y:41.6381916
+ML,sov:ML,type:UN,name:Mali,capital:Bamako,continent:Africa,label_x:-8.0017251,label_y:12.6461735
+MM,sov:MM,type:UN,name:Myanmar,capital:Naypyidaw,continent:Asia,label_x:96.2536777,label_y:21.1245849
+MN,sov:MN,type:UN,name:Mongolia,capital:Ulaanbaatar,continent:Asia,label_x:103.0667624,label_y:46.8364247
+MR,sov:MR,type:UN,name:Mauritania,capital:Nouakchott,continent:Africa,label_x:-11.4240248,label_y:18.5577225
+MT,sov:MT,type:UN,name:Malta,capital:Valletta,continent:Europe,label_x:14.4138667,label_y:35.9489455
+MU,sov:MU,type:UN,name:Mauritius,capital:Port Louis,continent:Africa,label_x:57.5910169,label_y:-20.2526041
+MV,sov:MV,type:UN,name:Maldives,capital:Mal\u00e9,continent:Asia,label_x:73.1623681,label_y:3.2015121
+MW,sov:MW,type:UN,name:Malawi,capital:Lilongwe,continent:Africa,label_x:34.036726,label_y:-13.3022125
+MX,sov:MX,type:UN,name:Mexico,capital:Mexico City,continent:North America,label_x:-102.5725396,label_y:22.77552
+MY,sov:MY,type:UN,name:Malaysia,capital:Kuala Lumpur,continent:Asia,label_x:101.6275459,label_y:3.1010333
+MZ,sov:MZ,type:UN,name:Mozambique,capital:Maputo,continent:Africa,label_x:35.3419967,label_y:-18.1454277
+NA,sov:NA,type:UN,name:Nambia,capital:Windhoek,continent:Africa,label_x:17.1751286,label_y:-21.9902504
+NE,sov:NE,type:UN,name:Niger,capital:Niamey,continent:Africa,label_x:9.7122154,label_y:16.9424506
+NG,sov:NG,type:UN,name:Nigeria,capital:Abuja,continent:Africa,label_x:8.0894561,label_y:9.5132431
+NI,sov:NI,type:UN,name:Nicaragua,capital:Managua,continent:North America,label_x:-84.9087258,label_y:12.1394317
+NL,sov:NL,type:UN,name:Netherlands,capital:Amsterdam,continent:Europe,label_x:5.6735911,label_y:52.637082
+NO,sov:NO,type:UN,name:Norway,capital:Oslo,continent:Europe,label_x:8.8815986,label_y:61.461553
+NP,sov:NP,type:UN,name:Nepal,capital:Kathmandu,continent:Asia,label_x:84.0188694,label_y:27.9528571
+NR,sov:NR,type:UN,name:Naru,capital:Yaren,continent:Oceania,label_x:166.9231353,label_y:-0.528743
+NZ,sov:NZ,type:UN,name:New Zeland,capital:Wellington,continent:Oceania,label_x:172.7933434,label_y:-41.837112
+OM,sov:OM,type:UN,name:Oman,capital:Muscat,continent:Asia,label_x:56.3815345,label_y:20.0227851
+PA,sov:PA,type:UN,name:Panama,capital:Panama City,continent:North America,label_x:-80.4058596,label_y:8.6410332
+PE,sov:PE,type:UN,name:Peru,capital:Lima,continent:South America,label_x:-75.5162138,label_y:-9.7885605
+PG,sov:PG,type:UN,name:Papua New Guinea,capital:Port Moresby,continent:Oceania,label_x:143.9402869,label_y:-6.2690947
+PH,sov:PH,type:UN,name:Philippines,capital:Manila,continent:Asia,label_x:121.0242965,label_y:14.4359473
+PK,sov:PK,type:UN,name:Pakistan,capital:Islamabad,continent:Asia,label_x:69.3650837,label_y:30.3351274
+PL,sov:PL,type:UN,name:Poland,capital:Warsaw,continent:Europe,label_x:18.7065019,label_y:52.2235778
+PT,sov:PT,type:UN,name:Portugal,capital:Lisbon,continent:Europe,label_x:-8.0031407,label_y:39.3062847
+PW,sov:PW,type:UN,name:Palau,capital:Ngerulmud,continent:Oceania,label_x:134.3820604,label_y:7.2568631
+PY,sov:PY,type:UN,name:Paraguay,capital:Asunci\u00f3n,continent:South America,label_x:-58.3052352,label_y:-23.4876365
+QA,sov:QA,type:UN,name:Qatar,capital:Doha,continent:Asia,label_x:51.2175358,label_y:25.525388
+RO,sov:RO,type:UN,name:Romania,capital:Bucharest,continent:Europe,label_x:26.1115229,label_y:44.4454409
+RS,sov:RS,type:UN,name:Serbia,capital:Belgrade,continent:Europe,label_x:20.9064011,label_y:44.0156648
+RU,sov:RU,type:UN,name:Russia,capital:Moscow,continent:Europe,label_x:96.7148551,label_y:61.9874292
+RW,sov:RW,type:UN,name:Rwanda,capital:Kigali,continent:Africa,label_x:30.0109183,label_y:-2.0027242
+SA,sov:SA,type:UN,name:Saudi Arabia,capital:Riyadh,continent:Asia,label_x:46.7101739,label_y:24.6381917
+SB,sov:SB,type:UN,name:Solomon Islands,capital:Honiara,continent:Oceania,label_x:160.1561951,label_y:-9.6457121
+SC,sov:SC,type:UN,name:Seychelles,capital:Victoria,continent:Africa,label_x:55.4671833,label_y:-4.6778487
+SD,sov:SD,type:UN,name:Sudan,capital:Khartoum,continent:Africa,label_x:32.5311161,label_y:15.6412761
+SE,sov:SE,type:UN,name:Sweden,capital:Stockholm,continent:Europe,label_x:15.349523,label_y:62.6877826
+SG,sov:SG,type:UN,name:Singapore,capital:Singapore,continent:Asia,label_x:103.8245805,label_y:1.3043744
+SI,sov:SI,type:UN,name:Slovenia,capital:Ljubljana,continent:Europe,label_x:14.987427,label_y:46.1384616
+SK,sov:SK,type:UN,name:Slovakia,capital:Bratislava,continent:Europe,label_x:19.6729402,label_y:48.7461189
+SL,sov:SL,type:UN,name:Sierra Leone,capital:Freetown,continent:Africa,label_x:-11.852796,label_y:8.516352
+SM,sov:SM,type:UN,name:San Marino,capital:San Marino,continent:Europe,label_x:12.4456849,label_y:43.9362979
+SN,sov:SN,type:UN,name:Senegal,capital:Dakar,continent:Africa,label_x:-14.6546681,label_y:14.5027846
+SO,sov:SO,type:UN,name:Somalia,capital:Mogadishu,continent:Africa,label_x:47.0799047,label_y:5.4323808
+SR,sov:SR,type:UN,name:Suriname,capital:Paramaribo,continent:South America,label_x:-55.1591366,label_y:5.831058
+SS,sov:SS,type:UN,name:South Sudan,capital:Juba,continent:South America,label_x:31.6033003,label_y:4.8528883
+ST,sov:ST,type:UN,name:Sao Tome and Principle,capital:S\u00e3o Tom\u00e9,continent:Africa,label_x:6.5977248,label_y:0.2194835
+SV,sov:SV,type:UN,name:El Salvador,capital:San Salvador,continent:North America,label_x:-88.912394,label_y:13.539026
+SY,sov:SY,type:UN,name:Syria,capital:Damascus,continent:Asia,label_x:37.1259628,label_y:36.2166629
+SZ,sov:SZ,type:UN,name:Eswatini,capital:Mbabane,continent:Africa,label_x:31.5014922,label_y:-26.5647086
+TD,sov:TD,type:UN,name:Chad,capital:N'Djamena,continent:Africa,label_x:18.8428023,label_y:15.1950643
+TG,sov:TG,type:UN,name:Togo,capital:Lom\u00e9,continent:Africa,label_x:0.9748853,label_y:8.5616987
+TH,sov:TH,type:UN,name:Thailand,capital:Bangkok,continent:Asia,label_x:101.5200525,label_y:15.6603923
+TJ,sov:TJ,type:UN,name:Tajikistan,capital:Dushanbe,continent:Asia,label_x:70.7300987,label_y:38.7025745
+TL,sov:TL,type:UN,name:Timor-Leste,capital:Dili,continent:Asia,label_x:125.8658334,label_y:-8.8191639
+TM,sov:TM,type:UN,name:Turkmenistan,capital:Ashgabat,continent:Asia,label_x:59.0936668,label_y:39.2400854
+TN,sov:TN,type:UN,name:Tunisia,capital:Tunis,continent:Africa,label_x:10.1817691,label_y:36.7974298
+TO,sov:TO,type:UN,name:Tongo,capital:Nuku\u02bbalofa,continent:Oceania,label_x:-175.2728401,label_y:-21.1676654
+TR,sov:TR,type:UN,name:T\u00fcrkiye,capital:Ankara,continent:Asia,label_x:35.1245818,label_y:39.0614154
+TT,sov:TT,type:UN,name:Trinidad and Tobago,capital:Port of Spain,continent:North America,label_x:-61.2559084,label_y:10.485968
+TV,sov:TV,type:UN,name:Tuvalu,capital:Funafuti,continent:Oceania,label_x:179.198109,label_y:-8.520721
+TZ,sov:TZ,type:UN,name:Tanzania,capital:Dodoma,continent:Africa,label_x:34.8945385,label_y:-6.4530964
+UA,sov:UA,type:UN,name:Ukraine,capital:Kyiv,continent:Europe,label_x:31.7221141,label_y:48.9073723
+UG,sov:UG,type:UN,name:Uganda,capital:Kampala,continent:Africa,label_x:32.5206202,label_y:1.1054019
+US,sov:US,type:UN,name:United States,capital:Washington DC,continent:North America,label_x:-98.6785034,label_y:39.999733
+UY,sov:UY,type:UN,name:Uruguay,capital:Montevideo,continent:South America,label_x:-56.0116514,label_y:-33.2421876
+UZ,sov:UZ,type:UN,name:Uzbekistan,capital:Tashkent,continent:Asia,label_x:63.1798864,label_y:41.8340514
+VC,sov:VC,type:UN,name:Saint Vincent and the Grenadines,capital:Kingstown,continent:North America,label_x:-61.1890644,label_y:13.0073262
+VE,sov:VE,type:UN,name:Venezuela,capital:Caracas,continent:South America,label_x:-66.0916048,label_y:7.0767736
+VN,sov:VN,type:UN,name:Viet Nam,capital:Hanoi,continent:Asia,label_x:108.3680998,label_y:13.3186546
+VU,sov:VU,type:UN,name:Vanuatu,capital:Port Vila,continent:Oceania,label_x:168.3651785,label_y:-17.6738885
+WS,sov:WS,type:UN,name:Samoa,capital:Apia,continent:Oceania,label_x:-172.4389349,label_y:-13.621469
+YE,sov:YE,type:UN,name:Yemen,capital:Sana'a,continent:Asia,label_x:47.6664502,label_y:15.7440855
+ZA,sov:ZA,type:UN,name:South Africa,capital:Cape Town,continent:Africa,label_x:28.0012256,label_y:-26.1161705
+ZM,sov:ZM,type:UN,name:Zambia,capital:Lusaka,continent:Africa,label_x:28.2347898,label_y:-14.3119102
+ZW,sov:ZW,type:UN,name:Zimbabwe,capital:Harare,continent:Africa,label_x:29.5163621,label_y:-19.1666898
 VG,label_x:-64.3193072,label_y:18.719104
-DO,label_x:-70.086478,label_y:18.892313,name:Dominican Republic
-HT,label_x:-71.997441,label_y:18.9640264
 TC,label_x:-71.71875,label_y:21.8003081
-JM,label_x:-77.1609054,label_y:18.1153676
-CU,label_x:-77.8228634,label_y:21.3271808
-PA,label_x:-80.4058596,label_y:8.6410332
-CR,label_x:-83.917331,label_y:9.6412628
-NI,label_x:-84.9087258,label_y:12.1394317
-HN,label_x:-87.2256433,label_y:14.504704
-GT,label_x:-90.5600285,label_y:15.6093419
-BZ,label_x:-88.7417695,label_y:17.0241062
-MX,label_x:-102.5725396,label_y:22.77552
-US,label_x:-98.6785034,label_y:39.999733
-CA,label_x:-102.0323814,label_y:58.111966
-SB,label_x:160.1561951,label_y:-9.6457121
-FM,label_x:158.2434836,label_y:6.8885815
-MH,label_x:167.4758192,label_y:9.39583
-NR,label_x:166.9231353,label_y:-0.528743
-VU,label_x:168.3651785,label_y:-17.6738885
+TK,label_x:-171.2646918,label_y:-9.375398
+SX,label_x:-63.0592201,label_y:18.0423395
+PF,label_x:-149.406843,label_y:-17.679742
+PN,label_x:-128.3264485,label_y:-24.3763885
 NC,label_x:165.2443266,label_y:-21.235202
 NF,label_x:167.9557209,label_y:-29.0389475
-FJ,label_x:177.9848072,label_y:-17.7929927
-TO,label_x:-175.2728401,label_y:-21.1676654
 NU,label_x:-169.8601692,label_y:-19.0500044
-WS,label_x:-172.4389349,label_y:-13.621469
-WF,label_x:-176.2081211,label_y:-13.285568
-TK,label_x:-171.2646918,label_y:-9.375398
-TV,label_x:179.198109,label_y:-8.520721
-PF,label_x:-149.406843,label_y:-17.679742
-KI,label_x:-157.3918543,label_y:2.002841
+MQ,label_x:-61.0354199,label_y:14.6474199
+MS,label_x:-62.1923341,label_y:16.7374079
+MP,label_x:145.7224081,label_y:15.1927277
+GP,label_x:-61.4556112,label_y:16.2181036
 FK,label_x:-58.5949322,label_y:-51.7967191
-PN,label_x:-128.3264485,label_y:-24.3763885
-NZ,label_x:172.7933434,label_y:-41.837112
+FO,label_x:-6.7715692,label_y:62.0102146
+CU,label_x:-77.8228634,label_y:21.3271808
 CC,label_x:96.8265094,label_y:-12.1843223
 CX,label_x:105.6394828,label_y:-10.488897
-PW,label_x:134.3820604,label_y:7.2568631
-MP,label_x:145.7224081,label_y:15.1927277
-IS,label_x:-21.8744563,label_y:64.130796
-FO,label_x:-6.7715692,label_y:62.0102146
-BS,label_x:-77.4,label_y:25.0
 BM,label_x:-64.7769129,label_y:32.30368
-KZ,label_x:67.3828572,label_y:47.827276
-LB,label_x:35.887572,label_y:34.1917381
-BH,label_x:50.5882951,label_y:25.9954587
-BI,label_x:29.9746774,label_y:-3.4092246
-BN,label_x:114.7484533,label_y:4.5381047
-MK,label_x:21.7313965,label_y:41.6381916
-MN,label_x:103.0667624,label_y:46.8364247
-SG,label_x:103.8245805,label_y:1.3043744
-SM,label_x:12.4456849,label_y:43.9362979
-SV,label_x:-88.912394,label_y:13.539026
-SZ,label_x:31.5014922,label_y:-26.5647086
-TG,label_x:0.9748853,label_y:8.5616987
+BL,label_x:-62.8144003,label_y:17.9124262
+AI,label_x:-63.0643946,label_y:18.2306172
 AS,label_x:-170.73207,label_y:-14.3244647
+WF,label_x:-176.2081211,label_y:-13.285568
 oo
