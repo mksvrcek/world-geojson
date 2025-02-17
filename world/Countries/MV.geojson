@@ -4,7 +4,7 @@
         "sov": "MV",
         "type": "UN",
         "name": "Maldives",
-        "capital": "Mal\u00e9",
+        "capital": "Mal\\u00e9",
         "continent": "Asia",
         "label_x": 73.1623681,
         "label_y": 3.2015121,

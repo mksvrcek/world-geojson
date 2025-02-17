@@ -4,7 +4,7 @@
         "sov": "IS",
         "type": "UN",
         "name": "Iceland",
-        "capital": "Reykjav\u00edk",
+        "capital": "Reykjav\\u00edk",
         "continent": "Europe",
         "label_x": -21.8744563,
         "label_y": 64.130796,

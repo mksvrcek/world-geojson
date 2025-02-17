@@ -3,7 +3,7 @@
     "properties": {
         "sov": "TR",
         "type": "UN",
-        "name": "T\u00fcrkiye",
+        "name": "T\\u00fcrkiye",
         "capital": "Ankara",
         "continent": "Asia",
         "label_x": 35.1245818,

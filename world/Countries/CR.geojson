@@ -1,10 +1,10 @@
 {
     "type": "Feature",
     "properties": {
-        "sov": "CR",
+        "sov": "CU",
         "type": "UN",
-        "name": "Costa Rica",
-        "capital": "San Jos\u00e9",
+        "name": "Cuba",
+        "capital": "Havana",
         "continent": "North America",
         "label_x": -83.917331,
         "label_y": 9.6412628,

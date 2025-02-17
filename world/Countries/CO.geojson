@@ -4,7 +4,7 @@
         "sov": "CO",
         "type": "UN",
         "name": "Colombia",
-        "capital": "Bogot\u00e1",
+        "capital": "Bogot\\u00e1",
         "continent": "South America",
         "label_x": -74.8013003,
         "label_y": 3.3747423,

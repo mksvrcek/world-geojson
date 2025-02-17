@@ -4,7 +4,7 @@
         "sov": "BR",
         "type": "UN",
         "name": "Brazil",
-        "capital": "Bras\u00edlia",
+        "capital": "Bras\\u00edlia",
         "continent": "South America",
         "label_x": -52.3085551,
         "label_y": -9.6834685,

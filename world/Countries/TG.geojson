@@ -4,7 +4,7 @@
         "sov": "TG",
         "type": "UN",
         "name": "Togo",
-        "capital": "Lom\u00e9",
+        "capital": "Lom\\u00e9",
         "continent": "Africa",
         "label_x": 0.9748853,
         "label_y": 8.5616987,
