@@ -2,7 +2,7 @@ AD,sov:AD,type:UN,name:Andora,capital:Andorra la Vella,continent:Europe,label_x:
 AE,sov:AE,type:UN,name:United Arab Emirates,capital:Abu Dhabi,continent:Asia,label_x:55.3075832,label_y:25.2692329
 AF,sov:AF,type:UN,name:Afghanistan,capital:Kabul,continent:Asia,label_x:65.658159,label_y:33.8286852
 AG,sov:AG,type:UN,name:Antigua and Barbuda,capital:Saint John's,continent:North America,label_x:-61.796428,label_y:17.060816
-AL,sov:AL,type:UN,name:Albania,capital:Tiran\u00eb,continent:Europe,label_x:19.8162348,label_y:41.3281167
+AL,sov:AL,type:UN,name:Albania,capital:Tirana,continent:Europe,label_x:19.8162348,label_y:41.3281167
 AM,sov:AM,type:UN,name:Armenia,capital:Yerevan,continent:Asia,label_x:44.6297789,label_y:40.2935696
 AO,sov:AO,type:UN,name:Angola,capital:Luanda,continent:Africa,label_x:17.7626313,label_y:-12.2863849
 AR,sov:AR,type:UN,name:Argentina,capital:Buenos Aires,continent:South America,label_x:-64.1928283,label_y:-31.4190142
@@ -20,7 +20,7 @@ BI,sov:BI,type:UN,name:Burundi,capital:Gitega,continent:Africa,label_x:29.974677
 BJ,sov:BJ,type:UN,name:Benin,capital:Porto-Novo,continent:Africa,label_x:2.6269808,label_y:9.3391553
 BN,sov:BN,type:UN,name:Brunei Darussalam,capital:Bandar Seri Begawan,continent:Asia,label_x:114.7484533,label_y:4.5381047
 BO,sov:BO,type:UN,name:Bolivia,capital:Sucre,continent:South America,label_x:-64.30772,label_y:-17.8620184
-BR,sov:BR,type:UN,name:Brazil,capital:Bras\u00edlia,continent:South America,label_x:-52.3085551,label_y:-9.6834685
+BR,sov:BR,type:UN,name:Brazil,capital:Brasília,continent:South America,label_x:-52.3085551,label_y:-9.6834685
 BS,sov:BS,type:UN,name:Bahamas,capital:Nassau,continent:North America,label_x:-77.4,label_y:25.0
 BT,sov:BT,type:UN,name:Bhutan,capital:Thimphu,continent:Asia,label_x:90.434764,label_y:27.4168801
 BW,sov:BW,type:UN,name:Botswana,capital:Gaborone,continent:Africa,label_x:24.2548308,label_y:-22.2705139
@@ -31,12 +31,13 @@ CD,sov:CD,type:UN,name:Democratic Republic of the Congo,capital:Kinshasa,contine
 CF,sov:CF,type:UN,name:Central African Republic,capital:Bamgui,continent:Africa,label_x:18.5596331,label_y:4.3823277
 CG,sov:CG,type:UN,name:Congo,capital:Brazzaville,continent:Africa,label_x:15.9357758,label_y:-0.22949
 CH,sov:CH,type:UN,name:Switzerland,capital:Bern,continent:Europe,label_x:8.4164954,label_y:46.9101275
-CI,sov:CI,type:UN,name:C\u00f4te D'Ivoire,capital:Yamoussoukro,continent:Africa,label_x:-5.5665051,label_y:7.5473633
+CI,sov:CI,type:UN,name:Ivory Coast,capital:Yamoussoukro,continent:Africa,label_x:-5.5665051,label_y:7.5473633
 CL,sov:CL,type:UN,name:Chile,capital:Santiago,continent:South America,label_x:-71.0957324,label_y:-34.572976
-CM,sov:CM,type:UN,name:Cameroon,capital:Yaound\u00e9,continent:Africa,label_x:10.9085442,label_y:5.7321212
+CM,sov:CM,type:UN,name:Cameroon,capital:Yaounde,continent:Africa,label_x:10.9085442,label_y:5.7321212
 CN,sov:CN,type:UN,name:China,capital:Bejing,continent:Asia,label_x:104.165802,label_y:35.8600198
-CO,sov:CO,type:UN,name:Colombia,capital:Bogot\u00e1,continent:South America,label_x:-74.8013003,label_y:3.3747423
-CR,sov:CU,type:UN,name:Cuba,capital:Havana,continent:North America,label_x:-83.917331,label_y:9.6412628
+CO,sov:CO,type:UN,name:Colombia,capital:Bogotá,continent:South America,label_x:-74.8013003,label_y:3.3747423
+CU,sov:CU,type:UN,name:Cuba,capital:BHavana,continent:North America,label_x:-77.8228634,label_y:21.3271808
+CR,sov:CR,type:UN,name:Costa Rica,capital:San José,continent:North America,label_x:-83.917331,label_y:9.6412628
 CV,sov:CV,type:UN,name:Cabo Verde,capital:Praia,continent:Africa,label_x:-24.0098171,label_y:16.0041918
 CY,sov:CY,type:UN,name:Cyprus,capital:Nicosia,continent:Europe,label_x:33.4333564,label_y:35.1301257
 CZ,sov:CZ,type:UN,name:Czechia,capital:Prague,continent:Europe,label_x:15.3451304,label_y:49.7247107
@@ -78,7 +79,7 @@ IL,sov:IL,type:UN,name:Israel,capital:Jerusalem,continent:Asia,label_x:34.775365
 IN,sov:IN,type:UN,name:India,capital:New Delhi,continent:Asia,label_x:78.8918055,label_y:23.0411726
 IQ,sov:IQ,type:UN,name:Iraq,capital:Baghdad,continent:Asia,label_x:42.8029174,label_y:33.1392665
 IR,sov:IR,type:UN,name:Iran,capital:Tehran,continent:Asia,label_x:53.4877657,label_y:32.8152734
-IS,sov:IS,type:UN,name:Iceland,capital:Reykjav\u00edk,continent:Europe,label_x:-21.8744563,label_y:64.130796
+IS,sov:IS,type:UN,name:Iceland,capital:Reykjavik,continent:Europe,label_x:-21.8744563,label_y:64.130796
 IT,sov:IT,type:UN,name:Italy,capital:Rome,continent:Europe,label_x:12.5926838,label_y:42.6729993
 JM,sov:JM,type:UN,name:Jamaica,capital:Kingstone,continent:North America,label_x:-77.1609054,label_y:18.1153676
 JO,sov:JO,type:UN,name:Jordan,capital:Amman,continent:Asia,label_x:36.3921209,label_y:31.1257301
@@ -106,7 +107,7 @@ LV,sov:LV,type:UN,name:Latvia,capital:Riga,continent:Europe,label_x:24.915373,la
 LY,sov:LY,type:UN,name:Libya,capital:Tripoli,continent:Africa,label_x:17.5066496,label_y:26.768524
 MA,sov:MA,type:UN,name:Morocco,capital:Rabat,continent:Africa,label_x:-6.4839757,label_y:31.7134782
 MC,sov:MC,type:UN,name:Monaco,capital:Monaco,continent:Europe,label_x:7.41667,label_y:43.73333
-MD,sov:MD,type:UN,name:Moldova,capital:Chi\u0219in\u0103u,continent:Europe,label_x:28.366633,label_y:47.5050031
+MD,sov:MD,type:UN,name:Moldova,capital:Chisinau,continent:Europe,label_x:28.366633,label_y:47.5050031
 ME,sov:ME,type:UN,name:Montenegro,capital:Podgorica,continent:Europe,label_x:19.2230849,label_y:42.8045083
 MG,sov:MG,type:UN,name:Madagascar,capital:Antananarivo,continent:Africa,label_x:46.5262506,label_y:-19.8633617
 MH,sov:MH,type:UN,name:Marshall Islands,capital:Majuro,continent:Africa,label_x:167.4758192,label_y:9.39583
@@ -117,7 +118,7 @@ MN,sov:MN,type:UN,name:Mongolia,capital:Ulaanbaatar,continent:Asia,label_x:103.0
 MR,sov:MR,type:UN,name:Mauritania,capital:Nouakchott,continent:Africa,label_x:-11.4240248,label_y:18.5577225
 MT,sov:MT,type:UN,name:Malta,capital:Valletta,continent:Europe,label_x:14.4138667,label_y:35.9489455
 MU,sov:MU,type:UN,name:Mauritius,capital:Port Louis,continent:Africa,label_x:57.5910169,label_y:-20.2526041
-MV,sov:MV,type:UN,name:Maldives,capital:Mal\u00e9,continent:Asia,label_x:73.1623681,label_y:3.2015121
+MV,sov:MV,type:UN,name:Maldives,capital:Malé,continent:Asia,label_x:73.1623681,label_y:3.2015121
 MW,sov:MW,type:UN,name:Malawi,capital:Lilongwe,continent:Africa,label_x:34.036726,label_y:-13.3022125
 MX,sov:MX,type:UN,name:Mexico,capital:Mexico City,continent:North America,label_x:-102.5725396,label_y:22.77552
 MY,sov:MY,type:UN,name:Malaysia,capital:Kuala Lumpur,continent:Asia,label_x:101.6275459,label_y:3.1010333
@@ -140,7 +141,7 @@ PK,sov:PK,type:UN,name:Pakistan,capital:Islamabad,continent:Asia,label_x:69.3650
 PL,sov:PL,type:UN,name:Poland,capital:Warsaw,continent:Europe,label_x:18.7065019,label_y:52.2235778
 PT,sov:PT,type:UN,name:Portugal,capital:Lisbon,continent:Europe,label_x:-8.0031407,label_y:39.3062847
 PW,sov:PW,type:UN,name:Palau,capital:Ngerulmud,continent:Oceania,label_x:134.3820604,label_y:7.2568631
-PY,sov:PY,type:UN,name:Paraguay,capital:Asunci\u00f3n,continent:South America,label_x:-58.3052352,label_y:-23.4876365
+PY,sov:PY,type:UN,name:Paraguay,capital:Asunción,continent:South America,label_x:-58.3052352,label_y:-23.4876365
 QA,sov:QA,type:UN,name:Qatar,capital:Doha,continent:Asia,label_x:51.2175358,label_y:25.525388
 RO,sov:RO,type:UN,name:Romania,capital:Bucharest,continent:Europe,label_x:26.1115229,label_y:44.4454409
 RS,sov:RS,type:UN,name:Serbia,capital:Belgrade,continent:Europe,label_x:20.9064011,label_y:44.0156648
@@ -160,19 +161,19 @@ SN,sov:SN,type:UN,name:Senegal,capital:Dakar,continent:Africa,label_x:-14.654668
 SO,sov:SO,type:UN,name:Somalia,capital:Mogadishu,continent:Africa,label_x:47.0799047,label_y:5.4323808
 SR,sov:SR,type:UN,name:Suriname,capital:Paramaribo,continent:South America,label_x:-55.1591366,label_y:5.831058
 SS,sov:SS,type:UN,name:South Sudan,capital:Juba,continent:South America,label_x:31.6033003,label_y:4.8528883
-ST,sov:ST,type:UN,name:Sao Tome and Principle,capital:S\u00e3o Tom\u00e9,continent:Africa,label_x:6.5977248,label_y:0.2194835
+ST,sov:ST,type:UN,name:Sao Tome and Principle,capital:São Tomé,continent:Africa,label_x:6.5977248,label_y:0.2194835
 SV,sov:SV,type:UN,name:El Salvador,capital:San Salvador,continent:North America,label_x:-88.912394,label_y:13.539026
 SY,sov:SY,type:UN,name:Syria,capital:Damascus,continent:Asia,label_x:37.1259628,label_y:36.2166629
 SZ,sov:SZ,type:UN,name:Eswatini,capital:Mbabane,continent:Africa,label_x:31.5014922,label_y:-26.5647086
 TD,sov:TD,type:UN,name:Chad,capital:N'Djamena,continent:Africa,label_x:18.8428023,label_y:15.1950643
-TG,sov:TG,type:UN,name:Togo,capital:Lom\u00e9,continent:Africa,label_x:0.9748853,label_y:8.5616987
+TG,sov:TG,type:UN,name:Togo,capital:Lomé,continent:Africa,label_x:0.9748853,label_y:8.5616987
 TH,sov:TH,type:UN,name:Thailand,capital:Bangkok,continent:Asia,label_x:101.5200525,label_y:15.6603923
 TJ,sov:TJ,type:UN,name:Tajikistan,capital:Dushanbe,continent:Asia,label_x:70.7300987,label_y:38.7025745
 TL,sov:TL,type:UN,name:Timor-Leste,capital:Dili,continent:Asia,label_x:125.8658334,label_y:-8.8191639
 TM,sov:TM,type:UN,name:Turkmenistan,capital:Ashgabat,continent:Asia,label_x:59.0936668,label_y:39.2400854
 TN,sov:TN,type:UN,name:Tunisia,capital:Tunis,continent:Africa,label_x:10.1817691,label_y:36.7974298
-TO,sov:TO,type:UN,name:Tongo,capital:Nuku\u02bbalofa,continent:Oceania,label_x:-175.2728401,label_y:-21.1676654
-TR,sov:TR,type:UN,name:T\u00fcrkiye,capital:Ankara,continent:Asia,label_x:35.1245818,label_y:39.0614154
+TO,sov:TO,type:UN,name:Tongo,capital:Nuku'alofa,continent:Oceania,label_x:-175.2728401,label_y:-21.1676654
+TR,sov:TR,type:UN,name:Türkiye,capital:Ankara,continent:Asia,label_x:35.1245818,label_y:39.0614154
 TT,sov:TT,type:UN,name:Trinidad and Tobago,capital:Port of Spain,continent:North America,label_x:-61.2559084,label_y:10.485968
 TV,sov:TV,type:UN,name:Tuvalu,capital:Funafuti,continent:Oceania,label_x:179.198109,label_y:-8.520721
 TZ,sov:TZ,type:UN,name:Tanzania,capital:Dodoma,continent:Africa,label_x:34.8945385,label_y:-6.4530964
@@ -205,7 +206,6 @@ MP,label_x:145.7224081,label_y:15.1927277
 GP,label_x:-61.4556112,label_y:16.2181036
 FK,label_x:-58.5949322,label_y:-51.7967191
 FO,label_x:-6.7715692,label_y:62.0102146
-CU,label_x:-77.8228634,label_y:21.3271808
 CC,label_x:96.8265094,label_y:-12.1843223
 CX,label_x:105.6394828,label_y:-10.488897
 BM,label_x:-64.7769129,label_y:32.30368
