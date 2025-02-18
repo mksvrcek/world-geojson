@@ -36,7 +36,7 @@ CL,sov:CL,type:UN,name:Chile,capital:Santiago,continent:South America,label_x:-7
 CM,sov:CM,type:UN,name:Cameroon,capital:Yaounde,continent:Africa,label_x:10.9085442,label_y:5.7321212
 CN,sov:CN,type:UN,name:China,capital:Bejing,continent:Asia,label_x:104.165802,label_y:35.8600198
 CO,sov:CO,type:UN,name:Colombia,capital:Bogotá,continent:South America,label_x:-74.8013003,label_y:3.3747423
-CU,sov:CU,type:UN,name:Cuba,capital:BHavana,continent:North America,label_x:-77.8228634,label_y:21.3271808
+CU,sov:CU,type:UN,name:Cuba,capital:Havana,continent:North America,label_x:-77.8228634,label_y:21.3271808
 CR,sov:CR,type:UN,name:Costa Rica,capital:San José,continent:North America,label_x:-83.917331,label_y:9.6412628
 CV,sov:CV,type:UN,name:Cabo Verde,capital:Praia,continent:Africa,label_x:-24.0098171,label_y:16.0041918
 CY,sov:CY,type:UN,name:Cyprus,capital:Nicosia,continent:Europe,label_x:33.4333564,label_y:35.1301257
